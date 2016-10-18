@@ -222,8 +222,9 @@ $(document).ready(function() {
     //$('#orgname-header').text(allData[orgName].name);
 
     // Update title field.
-    var url = 'https://clinicaltrials.gov/ct2/results?recr=Completed&type=Intr';
-    url += '&rslt&lead=' + name + '&lead_ex=Y';
+    var url = 'https://clinicaltrials.gov/ct2/results/displayOpt?';
+    url += 'flds=a&flds=b&flds=f&flds=g&flds=s&flds=u&submit_fld_opt=on';
+    url += '&recr=Completed&type=Intr&lead=' + name + '&lead_ex=Y&show_flds=Y';
     var title = 'Since Jan 2006, <strong>';
     title += name + '</strong>';
     title += ' completed ' + allData[orgName].total.toLocaleString();
