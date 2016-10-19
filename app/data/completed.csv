@@ -1,205 +1,205 @@
 lead_sponsor,2006_overdue,2006_total,2007_overdue,2007_total,2008_overdue,2008_total,2009_overdue,2009_total,2010_overdue,2010_total,2011_overdue,2011_total,2012_overdue,2012_total,2013_overdue,2013_total,2014_overdue,2014_total,lead_sponsor_slug
-"AbbVie (prior sponsor, Abbott)",1.0,1.0,,,1.0,1.0,0.0,4.0,0.0,4.0,0.0,10.0,2.0,18.0,1.0,12.0,0.0,7.0,abbvie-prior-sponsor-abbott
-Abbott,11.0,15.0,12.0,17.0,0.0,16.0,1.0,15.0,2.0,15.0,1.0,5.0,,,0.0,2.0,0.0,3.0,abbott
-Abbott Nutrition,,,2.0,2.0,6.0,6.0,4.0,4.0,8.0,8.0,5.0,5.0,7.0,7.0,6.0,6.0,4.0,4.0,abbott-nutrition
-Aga Khan University,1.0,1.0,1.0,1.0,5.0,6.0,3.0,3.0,9.0,9.0,9.0,9.0,4.0,4.0,9.0,9.0,1.0,1.0,aga-khan-university
-Alcon Research,18.0,18.0,18.0,19.0,3.0,31.0,12.0,38.0,21.0,37.0,24.0,38.0,1.0,32.0,2.0,35.0,0.0,27.0,alcon-research
-Allergan,7.0,8.0,6.0,10.0,0.0,20.0,1.0,21.0,0.0,18.0,1.0,25.0,0.0,21.0,0.0,16.0,0.0,27.0,allergan
-Alliance for Clinical Trials in Oncology,43.0,44.0,24.0,25.0,19.0,24.0,20.0,22.0,21.0,28.0,6.0,10.0,3.0,4.0,3.0,3.0,,,alliance-for-clinical-trials-in-oncology
-Amgen,11.0,12.0,15.0,24.0,0.0,15.0,1.0,18.0,0.0,7.0,0.0,11.0,0.0,20.0,0.0,13.0,0.0,5.0,amgen
-Asan Medical Center,2.0,4.0,1.0,5.0,6.0,9.0,8.0,9.0,9.0,9.0,3.0,5.0,2.0,4.0,12.0,14.0,5.0,5.0,asan-medical-center
-Assistance Publique - Hôpitaux de Paris,5.0,5.0,11.0,11.0,28.0,28.0,30.0,30.0,40.0,40.0,52.0,52.0,44.0,44.0,47.0,47.0,34.0,35.0,assistance-publique-hopitaux-de-paris
-Assistance Publique Hopitaux De Marseille,,,,,2.0,2.0,1.0,1.0,9.0,9.0,13.0,13.0,12.0,12.0,13.0,13.0,10.0,10.0,assistance-publique-hopitaux-de-marseille
-Astellas Pharma Inc,9.0,9.0,19.0,19.0,20.0,29.0,15.0,22.0,24.0,28.0,13.0,15.0,10.0,11.0,18.0,24.0,8.0,10.0,astellas-pharma-inc
-AstraZeneca,23.0,26.0,39.0,51.0,9.0,74.0,4.0,76.0,8.0,51.0,3.0,49.0,9.0,35.0,8.0,25.0,1.0,24.0,astrazeneca
-Bausch & Lomb Incorporated,7.0,7.0,4.0,7.0,2.0,14.0,2.0,9.0,1.0,14.0,1.0,12.0,1.0,2.0,2.0,2.0,3.0,3.0,bausch-lomb-incorporated
-Bayer,14.0,20.0,26.0,31.0,17.0,56.0,9.0,29.0,18.0,29.0,22.0,45.0,8.0,18.0,13.0,20.0,13.0,19.0,bayer
-Baylor College of Medicine,3.0,3.0,3.0,3.0,11.0,15.0,9.0,14.0,6.0,9.0,8.0,12.0,4.0,10.0,5.0,8.0,3.0,4.0,baylor-college-of-medicine
-Beth Israel Deaconess Medical Center,1.0,1.0,3.0,3.0,3.0,3.0,6.0,6.0,10.0,10.0,6.0,10.0,4.0,8.0,3.0,7.0,8.0,8.0,beth-israel-deaconess-medical-center
-Biogen,5.0,5.0,2.0,4.0,3.0,3.0,2.0,3.0,2.0,4.0,2.0,6.0,1.0,9.0,3.0,5.0,0.0,3.0,biogen
-Boehringer Ingelheim,21.0,27.0,19.0,24.0,1.0,27.0,1.0,34.0,0.0,31.0,0.0,38.0,0.0,29.0,0.0,38.0,1.0,21.0,boehringer-ingelheim
-Boston Children’s Hospital,2.0,2.0,1.0,1.0,2.0,2.0,5.0,7.0,4.0,5.0,4.0,6.0,4.0,7.0,3.0,4.0,6.0,7.0,boston-childrens-hospital
-Boston Medical Center,2.0,2.0,2.0,2.0,7.0,8.0,2.0,2.0,4.0,5.0,8.0,8.0,8.0,10.0,6.0,7.0,7.0,7.0,boston-medical-center
-Boston Scientific Corporation,5.0,5.0,5.0,6.0,4.0,9.0,8.0,16.0,0.0,2.0,3.0,5.0,4.0,8.0,2.0,9.0,1.0,2.0,boston-scientific-corporation
-Boston University,3.0,3.0,3.0,5.0,5.0,8.0,6.0,7.0,2.0,3.0,7.0,9.0,10.0,11.0,6.0,6.0,3.0,3.0,boston-university
-Brigham and Women's Hospital,5.0,5.0,9.0,9.0,6.0,12.0,12.0,15.0,10.0,12.0,13.0,15.0,14.0,22.0,15.0,18.0,6.0,7.0,brigham-and-women-s-hospital
-Bristol-Myers Squibb,3.0,10.0,3.0,7.0,1.0,16.0,3.0,29.0,1.0,5.0,1.0,15.0,1.0,11.0,0.0,10.0,1.0,12.0,bristol-myers-squibb
+"AbbVie (prior sponsor, Abbott)",1.0,1.0,,,1.0,1.0,0.0,4.0,0.0,4.0,0.0,10.0,1.0,18.0,1.0,12.0,0.0,7.0,abbvie-prior-sponsor-abbott
+Abbott,8.0,15.0,9.0,17.0,0.0,16.0,1.0,15.0,2.0,15.0,1.0,5.0,,,0.0,2.0,0.0,3.0,abbott
+Abbott Nutrition,,,1.0,2.0,4.0,6.0,3.0,4.0,7.0,8.0,5.0,5.0,5.0,7.0,5.0,6.0,3.0,4.0,abbott-nutrition
+Aga Khan University,0.0,1.0,1.0,1.0,4.0,6.0,2.0,3.0,7.0,9.0,7.0,9.0,3.0,4.0,7.0,9.0,0.0,1.0,aga-khan-university
+Alcon Research,18.0,18.0,18.0,19.0,3.0,31.0,11.0,38.0,20.0,37.0,24.0,38.0,0.0,32.0,2.0,35.0,0.0,27.0,alcon-research
+Allergan,4.0,8.0,3.0,10.0,0.0,20.0,1.0,21.0,0.0,18.0,1.0,25.0,0.0,21.0,0.0,16.0,0.0,27.0,allergan
+Alliance for Clinical Trials in Oncology,39.0,44.0,21.0,25.0,18.0,24.0,20.0,22.0,21.0,28.0,6.0,10.0,1.0,4.0,2.0,3.0,,,alliance-for-clinical-trials-in-oncology
+Amgen,5.0,12.0,12.0,24.0,0.0,15.0,1.0,18.0,0.0,7.0,0.0,11.0,0.0,20.0,0.0,13.0,0.0,5.0,amgen
+Asan Medical Center,1.0,4.0,1.0,5.0,4.0,9.0,6.0,9.0,5.0,9.0,1.0,5.0,1.0,4.0,7.0,14.0,4.0,5.0,asan-medical-center
+Assistance Publique - Hôpitaux de Paris,3.0,5.0,6.0,11.0,14.0,28.0,12.0,30.0,25.0,40.0,30.0,52.0,34.0,44.0,37.0,47.0,25.0,35.0,assistance-publique-hopitaux-de-paris
+Assistance Publique Hopitaux De Marseille,,,,,0.0,2.0,1.0,1.0,9.0,9.0,9.0,13.0,10.0,12.0,10.0,13.0,8.0,10.0,assistance-publique-hopitaux-de-marseille
+Astellas Pharma Inc,8.0,9.0,13.0,19.0,17.0,29.0,12.0,22.0,22.0,28.0,9.0,15.0,9.0,11.0,18.0,24.0,7.0,10.0,astellas-pharma-inc
+AstraZeneca,15.0,26.0,25.0,51.0,6.0,74.0,2.0,76.0,6.0,51.0,2.0,49.0,6.0,35.0,8.0,25.0,1.0,24.0,astrazeneca
+Bausch & Lomb Incorporated,6.0,7.0,3.0,7.0,2.0,14.0,2.0,9.0,1.0,14.0,1.0,12.0,1.0,2.0,2.0,2.0,3.0,3.0,bausch-lomb-incorporated
+Bayer,13.0,20.0,20.0,31.0,15.0,56.0,9.0,29.0,11.0,29.0,16.0,45.0,6.0,18.0,10.0,20.0,13.0,19.0,bayer
+Baylor College of Medicine,2.0,3.0,1.0,3.0,4.0,15.0,8.0,14.0,3.0,9.0,5.0,12.0,4.0,10.0,4.0,8.0,3.0,4.0,baylor-college-of-medicine
+Beth Israel Deaconess Medical Center,1.0,1.0,2.0,3.0,3.0,3.0,4.0,6.0,7.0,10.0,4.0,10.0,2.0,8.0,3.0,7.0,6.0,8.0,beth-israel-deaconess-medical-center
+Biogen,5.0,5.0,2.0,4.0,2.0,3.0,2.0,3.0,1.0,4.0,2.0,6.0,1.0,9.0,3.0,5.0,0.0,3.0,biogen
+Boehringer Ingelheim,19.0,27.0,14.0,24.0,1.0,27.0,1.0,34.0,0.0,31.0,0.0,38.0,0.0,29.0,0.0,38.0,1.0,21.0,boehringer-ingelheim
+Boston Children’s Hospital,2.0,2.0,1.0,1.0,1.0,2.0,1.0,7.0,2.0,5.0,3.0,6.0,3.0,7.0,3.0,4.0,5.0,7.0,boston-childrens-hospital
+Boston Medical Center,1.0,2.0,2.0,2.0,7.0,8.0,0.0,2.0,2.0,5.0,6.0,8.0,5.0,10.0,5.0,7.0,6.0,7.0,boston-medical-center
+Boston Scientific Corporation,1.0,5.0,2.0,6.0,2.0,9.0,5.0,16.0,0.0,2.0,2.0,5.0,3.0,8.0,2.0,9.0,1.0,2.0,boston-scientific-corporation
+Boston University,0.0,3.0,2.0,5.0,4.0,8.0,4.0,7.0,1.0,3.0,7.0,9.0,5.0,11.0,3.0,6.0,3.0,3.0,boston-university
+Brigham and Women's Hospital,4.0,5.0,5.0,9.0,5.0,12.0,9.0,15.0,7.0,12.0,6.0,15.0,9.0,22.0,10.0,18.0,5.0,7.0,brigham-and-women-s-hospital
+Bristol-Myers Squibb,0.0,10.0,1.0,7.0,1.0,16.0,1.0,29.0,0.0,5.0,1.0,15.0,1.0,11.0,0.0,10.0,1.0,12.0,bristol-myers-squibb
 CIBA VISION,,,,,0.0,2.0,0.0,14.0,1.0,10.0,2.0,18.0,2.0,7.0,,,0.0,1.0,ciba-vision
-Cairo University,,,,,5.0,5.0,0.0,1.0,6.0,7.0,1.0,1.0,4.0,6.0,16.0,17.0,12.0,13.0,cairo-university
-Catholic University of the Sacred Heart,1.0,1.0,2.0,2.0,6.0,6.0,3.0,3.0,5.0,6.0,9.0,9.0,9.0,9.0,4.0,4.0,1.0,1.0,catholic-university-of-the-sacred-heart
-Celgene Corporation,5.0,5.0,5.0,8.0,2.0,11.0,0.0,8.0,0.0,2.0,0.0,1.0,0.0,4.0,1.0,3.0,0.0,3.0,celgene-corporation
-Centers for Disease Control and Prevention,10.0,10.0,9.0,9.0,14.0,14.0,11.0,12.0,10.0,11.0,6.0,7.0,3.0,4.0,7.0,7.0,6.0,6.0,centers-for-disease-control-and-prevention
-Centre for Addiction and Mental Health,3.0,3.0,5.0,5.0,3.0,3.0,2.0,3.0,6.0,6.0,6.0,7.0,4.0,4.0,3.0,4.0,5.0,7.0,centre-for-addiction-and-mental-health
-Chang Gung Memorial Hospital,1.0,1.0,1.0,1.0,6.0,6.0,3.0,4.0,7.0,9.0,8.0,9.0,7.0,8.0,14.0,16.0,7.0,7.0,chang-gung-memorial-hospital
-"Charite University, Berlin, Germany",4.0,4.0,13.0,13.0,9.0,10.0,9.0,10.0,5.0,5.0,11.0,11.0,8.0,8.0,15.0,15.0,16.0,16.0,charite-university-berlin-germany
-"Children's Hospital Medical Center, Cincinnati",,,,,1.0,1.0,1.0,3.0,5.0,6.0,4.0,6.0,7.0,9.0,10.0,10.0,7.0,7.0,children-s-hospital-medical-center-cincinnati
-Children's Hospital of Philadelphia,1.0,3.0,2.0,4.0,6.0,8.0,1.0,6.0,4.0,5.0,6.0,13.0,4.0,7.0,5.0,7.0,6.0,9.0,children-s-hospital-of-philadelphia
-Children's Oncology Group,13.0,13.0,16.0,16.0,0.0,3.0,1.0,4.0,1.0,5.0,1.0,1.0,2.0,2.0,1.0,3.0,,,children-s-oncology-group
-Chinese University of Hong Kong,6.0,8.0,9.0,9.0,12.0,12.0,8.0,8.0,7.0,8.0,11.0,12.0,15.0,15.0,11.0,14.0,9.0,10.0,chinese-university-of-hong-kong
-City of Hope Medical Center,,,6.0,6.0,1.0,1.0,3.0,3.0,10.0,10.0,4.0,5.0,3.0,4.0,6.0,7.0,8.0,8.0,city-of-hope-medical-center
+Cairo University,,,,,5.0,5.0,0.0,1.0,4.0,7.0,1.0,1.0,4.0,6.0,11.0,17.0,10.0,13.0,cairo-university
+Catholic University of the Sacred Heart,1.0,1.0,1.0,2.0,4.0,6.0,2.0,3.0,4.0,6.0,4.0,9.0,7.0,9.0,3.0,4.0,1.0,1.0,catholic-university-of-the-sacred-heart
+Celgene Corporation,3.0,5.0,4.0,8.0,1.0,11.0,0.0,8.0,0.0,2.0,0.0,1.0,0.0,4.0,0.0,3.0,0.0,3.0,celgene-corporation
+Centers for Disease Control and Prevention,3.0,10.0,8.0,9.0,9.0,14.0,7.0,12.0,7.0,11.0,5.0,7.0,2.0,4.0,5.0,7.0,5.0,6.0,centers-for-disease-control-and-prevention
+Centre for Addiction and Mental Health,3.0,3.0,3.0,5.0,1.0,3.0,0.0,3.0,4.0,6.0,4.0,7.0,2.0,4.0,2.0,4.0,5.0,7.0,centre-for-addiction-and-mental-health
+Chang Gung Memorial Hospital,0.0,1.0,0.0,1.0,5.0,6.0,3.0,4.0,4.0,9.0,6.0,9.0,6.0,8.0,12.0,16.0,7.0,7.0,chang-gung-memorial-hospital
+"Charite University, Berlin, Germany",3.0,4.0,6.0,13.0,7.0,10.0,4.0,10.0,1.0,5.0,10.0,11.0,6.0,8.0,12.0,15.0,15.0,16.0,charite-university-berlin-germany
+"Children's Hospital Medical Center, Cincinnati",,,,,1.0,1.0,0.0,3.0,3.0,6.0,3.0,6.0,4.0,9.0,10.0,10.0,5.0,7.0,children-s-hospital-medical-center-cincinnati
+Children's Hospital of Philadelphia,0.0,3.0,1.0,4.0,4.0,8.0,1.0,6.0,3.0,5.0,3.0,13.0,3.0,7.0,5.0,7.0,6.0,9.0,children-s-hospital-of-philadelphia
+Children's Oncology Group,9.0,13.0,12.0,16.0,0.0,3.0,1.0,4.0,1.0,5.0,1.0,1.0,1.0,2.0,1.0,3.0,,,children-s-oncology-group
+Chinese University of Hong Kong,4.0,8.0,6.0,9.0,8.0,12.0,5.0,8.0,5.0,8.0,6.0,12.0,8.0,15.0,7.0,14.0,8.0,10.0,chinese-university-of-hong-kong
+City of Hope Medical Center,,,5.0,6.0,1.0,1.0,3.0,3.0,10.0,10.0,4.0,5.0,3.0,4.0,5.0,7.0,8.0,8.0,city-of-hope-medical-center
 Coloplast A/S,0.0,1.0,1.0,1.0,,,1.0,6.0,1.0,9.0,1.0,5.0,0.0,9.0,0.0,9.0,0.0,2.0,coloplast-a-s
-Columbia University,4.0,4.0,1.0,3.0,6.0,13.0,8.0,12.0,5.0,10.0,5.0,10.0,4.0,7.0,12.0,17.0,11.0,16.0,columbia-university
-Dana-Farber Cancer Institute,20.0,20.0,24.0,26.0,1.0,4.0,3.0,6.0,1.0,7.0,3.0,3.0,2.0,9.0,0.0,4.0,3.0,6.0,dana-farber-cancer-institute
-Dartmouth-Hitchcock Medical Center,0.0,1.0,4.0,4.0,2.0,6.0,3.0,11.0,3.0,6.0,1.0,1.0,3.0,9.0,10.0,12.0,10.0,10.0,dartmouth-hitchcock-medical-center
-Duke University,8.0,8.0,17.0,21.0,11.0,23.0,8.0,27.0,7.0,23.0,18.0,34.0,15.0,26.0,24.0,37.0,27.0,35.0,duke-university
-Eastern Cooperative Oncology Group,14.0,14.0,10.0,10.0,0.0,3.0,0.0,6.0,0.0,3.0,0.0,4.0,0.0,3.0,,,0.0,2.0,eastern-cooperative-oncology-group
-Eisai Inc.,7.0,13.0,5.0,7.0,6.0,14.0,3.0,16.0,3.0,8.0,3.0,7.0,2.0,7.0,2.0,4.0,1.0,5.0,eisai-inc
-Eli Lilly and Company,3.0,5.0,7.0,29.0,11.0,66.0,0.0,42.0,0.0,41.0,0.0,38.0,0.0,29.0,0.0,25.0,0.0,15.0,eli-lilly-and-company
-Emory University,11.0,11.0,11.0,12.0,5.0,16.0,5.0,13.0,6.0,16.0,8.0,25.0,6.0,19.0,11.0,21.0,8.0,17.0,emory-university
-Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD),3.0,3.0,11.0,11.0,4.0,6.0,7.0,10.0,9.0,9.0,7.0,9.0,2.0,4.0,2.0,3.0,3.0,5.0,eunice-kennedy-shriver-national-institute-of-child-health-and-human-development-nichd
-Federal University of São Paulo,8.0,8.0,10.0,11.0,9.0,11.0,9.0,11.0,17.0,18.0,12.0,13.0,14.0,15.0,15.0,15.0,8.0,9.0,federal-university-of-sao-paulo
-Federico II University,1.0,1.0,3.0,4.0,7.0,7.0,6.0,8.0,5.0,5.0,4.0,5.0,6.0,6.0,9.0,9.0,4.0,4.0,federico-ii-university
-Ferring Pharmaceuticals,6.0,7.0,3.0,7.0,1.0,6.0,0.0,8.0,3.0,11.0,1.0,15.0,2.0,8.0,2.0,4.0,1.0,1.0,ferring-pharmaceuticals
-Forest Laboratories,5.0,7.0,6.0,11.0,0.0,8.0,1.0,14.0,1.0,11.0,0.0,6.0,4.0,9.0,4.0,11.0,5.0,5.0,forest-laboratories
-Fred Hutchinson Cancer Research Center,5.0,5.0,7.0,7.0,1.0,1.0,6.0,6.0,5.0,6.0,3.0,3.0,6.0,8.0,8.0,11.0,8.0,8.0,fred-hutchinson-cancer-research-center
-"Genentech, Inc.",1.0,1.0,1.0,5.0,0.0,12.0,0.0,18.0,1.0,11.0,1.0,6.0,0.0,5.0,2.0,6.0,2.0,6.0,genentech-inc
-"Genzyme, a Sanofi Company",13.0,23.0,11.0,16.0,4.0,11.0,1.0,8.0,2.0,4.0,0.0,4.0,0.0,5.0,0.0,4.0,1.0,1.0,genzyme-a-sanofi-company
-Gilead Sciences,4.0,7.0,6.0,10.0,2.0,7.0,3.0,8.0,2.0,8.0,1.0,14.0,0.0,9.0,1.0,26.0,0.0,15.0,gilead-sciences
-GlaxoSmithKline,88.0,97.0,84.0,125.0,9.0,111.0,13.0,96.0,10.0,72.0,14.0,92.0,14.0,88.0,16.0,75.0,11.0,52.0,glaxosmithkline
-Gynecologic Oncology Group,7.0,7.0,10.0,10.0,3.0,3.0,2.0,2.0,8.0,14.0,4.0,7.0,2.0,5.0,3.0,3.0,1.0,1.0,gynecologic-oncology-group
-H. Lee Moffitt Cancer Center and Research Institute,5.0,5.0,4.0,4.0,0.0,2.0,0.0,1.0,0.0,3.0,1.0,4.0,2.0,15.0,2.0,11.0,2.0,4.0,h-lee-moffitt-cancer-center-and-research-institute
-H. Lundbeck A/S,2.0,2.0,1.0,2.0,4.0,6.0,3.0,9.0,3.0,7.0,2.0,4.0,1.0,5.0,0.0,4.0,2.0,5.0,h-lundbeck-a-s
-Hoffmann-La Roche,24.0,32.0,25.0,37.0,21.0,49.0,18.0,56.0,22.0,85.0,16.0,51.0,7.0,49.0,8.0,42.0,7.0,30.0,hoffmann-la-roche
-Hospices Civils de Lyon,1.0,1.0,,,5.0,5.0,7.0,7.0,8.0,8.0,10.0,10.0,11.0,11.0,27.0,27.0,20.0,20.0,hospices-civils-de-lyon
-Hospital Clinic of Barcelona,3.0,3.0,3.0,3.0,5.0,5.0,3.0,3.0,6.0,6.0,6.0,6.0,11.0,11.0,1.0,1.0,8.0,8.0,hospital-clinic-of-barcelona
-Hospital de Clinicas de Porto Alegre,2.0,2.0,2.0,2.0,8.0,8.0,7.0,8.0,2.0,2.0,9.0,9.0,5.0,6.0,11.0,11.0,3.0,3.0,hospital-de-clinicas-de-porto-alegre
-Hvidovre University Hospital,2.0,2.0,3.0,3.0,1.0,1.0,7.0,7.0,6.0,6.0,5.0,5.0,6.0,6.0,8.0,9.0,4.0,4.0,hvidovre-university-hospital
-Icahn School of Medicine at Mount Sinai,1.0,1.0,3.0,3.0,1.0,3.0,2.0,4.0,6.0,8.0,3.0,6.0,8.0,8.0,12.0,13.0,9.0,9.0,icahn-school-of-medicine-at-mount-sinai
-Imperial College London,3.0,4.0,2.0,2.0,3.0,4.0,2.0,2.0,6.0,6.0,7.0,8.0,11.0,11.0,6.0,6.0,10.0,11.0,imperial-college-london
-Indiana University,1.0,1.0,4.0,4.0,6.0,11.0,3.0,8.0,4.0,8.0,6.0,16.0,11.0,21.0,6.0,8.0,8.0,15.0,indiana-university
-Isfahan University of Medical Sciences,1.0,1.0,1.0,1.0,1.0,1.0,7.0,7.0,7.0,7.0,8.0,8.0,12.0,12.0,7.0,7.0,4.0,5.0,isfahan-university-of-medical-sciences
-Johns Hopkins Bloomberg School of Public Health,,,6.0,8.0,2.0,5.0,4.0,5.0,5.0,6.0,1.0,2.0,4.0,8.0,8.0,8.0,4.0,4.0,johns-hopkins-bloomberg-school-of-public-health
-Johns Hopkins University,5.0,5.0,8.0,10.0,11.0,16.0,21.0,29.0,11.0,15.0,23.0,30.0,15.0,19.0,17.0,23.0,16.0,18.0,johns-hopkins-university
-"Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",,,3.0,5.0,2.0,20.0,0.0,13.0,2.0,7.0,3.0,12.0,0.0,1.0,,,,,johnson-johnson-pharmaceutical-research-development-l-l-c
+Columbia University,4.0,4.0,1.0,3.0,3.0,13.0,4.0,12.0,3.0,10.0,2.0,10.0,3.0,7.0,8.0,17.0,11.0,16.0,columbia-university
+Dana-Farber Cancer Institute,20.0,20.0,24.0,26.0,1.0,4.0,1.0,6.0,1.0,7.0,1.0,3.0,2.0,9.0,0.0,4.0,2.0,6.0,dana-farber-cancer-institute
+Dartmouth-Hitchcock Medical Center,0.0,1.0,3.0,4.0,1.0,6.0,2.0,11.0,3.0,6.0,0.0,1.0,1.0,9.0,8.0,12.0,9.0,10.0,dartmouth-hitchcock-medical-center
+Duke University,6.0,8.0,13.0,21.0,6.0,23.0,6.0,27.0,7.0,23.0,11.0,34.0,10.0,26.0,17.0,37.0,22.0,35.0,duke-university
+Eastern Cooperative Oncology Group,12.0,14.0,8.0,10.0,0.0,3.0,0.0,6.0,0.0,3.0,0.0,4.0,0.0,3.0,,,0.0,2.0,eastern-cooperative-oncology-group
+Eisai Inc.,5.0,13.0,5.0,7.0,6.0,14.0,3.0,16.0,0.0,8.0,3.0,7.0,2.0,7.0,2.0,4.0,1.0,5.0,eisai-inc
+Eli Lilly and Company,3.0,5.0,4.0,29.0,8.0,66.0,0.0,42.0,0.0,41.0,0.0,38.0,0.0,29.0,0.0,25.0,0.0,15.0,eli-lilly-and-company
+Emory University,8.0,11.0,9.0,12.0,5.0,16.0,4.0,13.0,4.0,16.0,7.0,25.0,5.0,19.0,5.0,21.0,5.0,17.0,emory-university
+Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD),3.0,3.0,7.0,11.0,3.0,6.0,3.0,10.0,7.0,9.0,4.0,9.0,0.0,4.0,0.0,3.0,2.0,5.0,eunice-kennedy-shriver-national-institute-of-child-health-and-human-development-nichd
+Federal University of São Paulo,7.0,8.0,8.0,11.0,7.0,11.0,6.0,11.0,14.0,18.0,11.0,13.0,12.0,15.0,15.0,15.0,7.0,9.0,federal-university-of-sao-paulo
+Federico II University,0.0,1.0,2.0,4.0,5.0,7.0,2.0,8.0,4.0,5.0,2.0,5.0,3.0,6.0,8.0,9.0,4.0,4.0,federico-ii-university
+Ferring Pharmaceuticals,6.0,7.0,2.0,7.0,1.0,6.0,0.0,8.0,2.0,11.0,0.0,15.0,2.0,8.0,2.0,4.0,1.0,1.0,ferring-pharmaceuticals
+Forest Laboratories,4.0,7.0,4.0,11.0,0.0,8.0,0.0,14.0,1.0,11.0,0.0,6.0,4.0,9.0,2.0,11.0,5.0,5.0,forest-laboratories
+Fred Hutchinson Cancer Research Center,5.0,5.0,7.0,7.0,1.0,1.0,4.0,6.0,3.0,6.0,2.0,3.0,1.0,8.0,7.0,11.0,3.0,8.0,fred-hutchinson-cancer-research-center
+"Genentech, Inc.",1.0,1.0,0.0,5.0,0.0,12.0,0.0,18.0,0.0,11.0,0.0,6.0,0.0,5.0,1.0,6.0,2.0,6.0,genentech-inc
+"Genzyme, a Sanofi Company",11.0,23.0,10.0,16.0,4.0,11.0,0.0,8.0,2.0,4.0,0.0,4.0,0.0,5.0,0.0,4.0,1.0,1.0,genzyme-a-sanofi-company
+Gilead Sciences,3.0,7.0,2.0,10.0,2.0,7.0,1.0,8.0,2.0,8.0,0.0,14.0,0.0,9.0,1.0,26.0,0.0,15.0,gilead-sciences
+GlaxoSmithKline,68.0,97.0,60.0,125.0,4.0,111.0,11.0,96.0,10.0,72.0,9.0,92.0,10.0,88.0,12.0,75.0,11.0,52.0,glaxosmithkline
+Gynecologic Oncology Group,7.0,7.0,10.0,10.0,3.0,3.0,2.0,2.0,7.0,14.0,4.0,7.0,2.0,5.0,3.0,3.0,1.0,1.0,gynecologic-oncology-group
+H. Lee Moffitt Cancer Center and Research Institute,5.0,5.0,4.0,4.0,0.0,2.0,0.0,1.0,0.0,3.0,1.0,4.0,0.0,15.0,2.0,11.0,2.0,4.0,h-lee-moffitt-cancer-center-and-research-institute
+H. Lundbeck A/S,2.0,2.0,0.0,2.0,2.0,6.0,3.0,9.0,3.0,7.0,1.0,4.0,1.0,5.0,0.0,4.0,1.0,5.0,h-lundbeck-a-s
+Hoffmann-La Roche,20.0,32.0,20.0,37.0,18.0,49.0,15.0,56.0,17.0,85.0,13.0,51.0,7.0,49.0,7.0,42.0,6.0,30.0,hoffmann-la-roche
+Hospices Civils de Lyon,1.0,1.0,,,3.0,5.0,5.0,7.0,6.0,8.0,5.0,10.0,8.0,11.0,24.0,27.0,20.0,20.0,hospices-civils-de-lyon
+Hospital Clinic of Barcelona,2.0,3.0,2.0,3.0,1.0,5.0,0.0,3.0,4.0,6.0,2.0,6.0,8.0,11.0,1.0,1.0,6.0,8.0,hospital-clinic-of-barcelona
+Hospital de Clinicas de Porto Alegre,1.0,2.0,0.0,2.0,4.0,8.0,3.0,8.0,1.0,2.0,7.0,9.0,3.0,6.0,7.0,11.0,2.0,3.0,hospital-de-clinicas-de-porto-alegre
+Hvidovre University Hospital,2.0,2.0,2.0,3.0,1.0,1.0,4.0,7.0,4.0,6.0,3.0,5.0,3.0,6.0,6.0,9.0,0.0,4.0,hvidovre-university-hospital
+Icahn School of Medicine at Mount Sinai,1.0,1.0,3.0,3.0,1.0,3.0,2.0,4.0,2.0,8.0,3.0,6.0,5.0,8.0,10.0,13.0,8.0,9.0,icahn-school-of-medicine-at-mount-sinai
+Imperial College London,1.0,4.0,1.0,2.0,3.0,4.0,1.0,2.0,5.0,6.0,3.0,8.0,7.0,11.0,6.0,6.0,8.0,11.0,imperial-college-london
+Indiana University,1.0,1.0,4.0,4.0,3.0,11.0,1.0,8.0,4.0,8.0,4.0,16.0,6.0,21.0,4.0,8.0,7.0,15.0,indiana-university
+Isfahan University of Medical Sciences,1.0,1.0,1.0,1.0,1.0,1.0,6.0,7.0,7.0,7.0,8.0,8.0,11.0,12.0,7.0,7.0,4.0,5.0,isfahan-university-of-medical-sciences
+Johns Hopkins Bloomberg School of Public Health,,,2.0,8.0,1.0,5.0,0.0,5.0,2.0,6.0,0.0,2.0,1.0,8.0,5.0,8.0,2.0,4.0,johns-hopkins-bloomberg-school-of-public-health
+Johns Hopkins University,4.0,5.0,5.0,10.0,7.0,16.0,11.0,29.0,6.0,15.0,14.0,30.0,11.0,19.0,13.0,23.0,13.0,18.0,johns-hopkins-university
+"Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",,,0.0,5.0,2.0,20.0,0.0,13.0,1.0,7.0,2.0,12.0,0.0,1.0,,,,,johnson-johnson-pharmaceutical-research-development-l-l-c
 "Johnson & Johnson Vision Care, Inc.",0.0,1.0,0.0,5.0,1.0,15.0,0.0,7.0,0.0,20.0,0.0,3.0,0.0,4.0,1.0,8.0,2.0,6.0,johnson-johnson-vision-care-inc
-Kaiser Permanente,2.0,2.0,3.0,4.0,1.0,3.0,8.0,8.0,3.0,3.0,6.0,6.0,5.0,7.0,6.0,7.0,4.0,4.0,kaiser-permanente
-Karolinska Institutet,,,6.0,6.0,5.0,5.0,7.0,8.0,14.0,14.0,6.0,7.0,8.0,9.0,17.0,18.0,20.0,20.0,karolinska-institutet
-Laval University,1.0,1.0,5.0,5.0,6.0,7.0,9.0,10.0,7.0,7.0,4.0,4.0,13.0,14.0,11.0,12.0,8.0,8.0,laval-university
-Lawson Health Research Institute,2.0,2.0,5.0,5.0,10.0,10.0,5.0,6.0,7.0,7.0,7.0,7.0,6.0,6.0,9.0,9.0,9.0,9.0,lawson-health-research-institute
-M.D. Anderson Cancer Center,20.0,21.0,32.0,34.0,1.0,11.0,1.0,22.0,3.0,18.0,1.0,21.0,9.0,34.0,9.0,21.0,13.0,20.0,m-d-anderson-cancer-center
-Maastricht University Medical Center,1.0,1.0,2.0,2.0,10.0,10.0,23.0,24.0,20.0,20.0,22.0,23.0,29.0,29.0,24.0,25.0,16.0,16.0,maastricht-university-medical-center
-Mahidol University,1.0,1.0,2.0,2.0,8.0,8.0,14.0,14.0,7.0,9.0,7.0,8.0,7.0,8.0,15.0,15.0,11.0,11.0,mahidol-university
-Mansoura University,,,0.0,1.0,5.0,6.0,8.0,8.0,11.0,11.0,7.0,7.0,7.0,7.0,9.0,9.0,6.0,7.0,mansoura-university
-Massachusetts General Hospital,17.0,18.0,18.0,25.0,15.0,34.0,12.0,29.0,20.0,41.0,21.0,42.0,19.0,32.0,24.0,41.0,19.0,27.0,massachusetts-general-hospital
-Mayo Clinic,27.0,27.0,51.0,52.0,11.0,25.0,10.0,29.0,21.0,41.0,22.0,41.0,20.0,40.0,15.0,28.0,22.0,29.0,mayo-clinic
-McMaster University,2.0,2.0,1.0,1.0,3.0,3.0,5.0,6.0,9.0,9.0,10.0,10.0,6.0,6.0,8.0,8.0,7.0,7.0,mcmaster-university
-Medical University of Graz,1.0,1.0,5.0,5.0,,,3.0,5.0,7.0,7.0,8.0,8.0,6.0,6.0,6.0,6.0,8.0,8.0,medical-university-of-graz
-Medical University of South Carolina,1.0,1.0,1.0,1.0,9.0,13.0,4.0,6.0,9.0,14.0,5.0,9.0,5.0,13.0,9.0,13.0,13.0,14.0,medical-university-of-south-carolina
-Medical University of Vienna,6.0,7.0,10.0,10.0,10.0,10.0,18.0,19.0,20.0,21.0,22.0,22.0,22.0,22.0,26.0,26.0,10.0,11.0,medical-university-of-vienna
-Memorial Sloan Kettering Cancer Center,13.0,13.0,12.0,12.0,2.0,13.0,6.0,17.0,1.0,11.0,10.0,16.0,7.0,18.0,5.0,14.0,6.0,18.0,memorial-sloan-kettering-cancer-center
-Merck KGaA,4.0,7.0,5.0,11.0,1.0,7.0,0.0,3.0,1.0,10.0,0.0,9.0,0.0,8.0,0.0,3.0,1.0,6.0,merck-kgaa
-Merck Sharp & Dohme Corp.,74.0,102.0,43.0,94.0,9.0,102.0,11.0,86.0,13.0,70.0,13.0,45.0,5.0,40.0,8.0,47.0,4.0,26.0,merck-sharp-dohme-corp
+Kaiser Permanente,2.0,2.0,2.0,4.0,0.0,3.0,6.0,8.0,1.0,3.0,5.0,6.0,2.0,7.0,5.0,7.0,1.0,4.0,kaiser-permanente
+Karolinska Institutet,,,3.0,6.0,4.0,5.0,4.0,8.0,7.0,14.0,2.0,7.0,7.0,9.0,11.0,18.0,15.0,20.0,karolinska-institutet
+Laval University,0.0,1.0,3.0,5.0,1.0,7.0,2.0,10.0,3.0,7.0,2.0,4.0,7.0,14.0,6.0,12.0,7.0,8.0,laval-university
+Lawson Health Research Institute,2.0,2.0,5.0,5.0,7.0,10.0,5.0,6.0,6.0,7.0,5.0,7.0,5.0,6.0,5.0,9.0,9.0,9.0,lawson-health-research-institute
+M.D. Anderson Cancer Center,18.0,21.0,28.0,34.0,1.0,11.0,1.0,22.0,3.0,18.0,1.0,21.0,8.0,34.0,8.0,21.0,12.0,20.0,m-d-anderson-cancer-center
+Maastricht University Medical Center,1.0,1.0,1.0,2.0,9.0,10.0,14.0,24.0,11.0,20.0,9.0,23.0,16.0,29.0,20.0,25.0,12.0,16.0,maastricht-university-medical-center
+Mahidol University,0.0,1.0,2.0,2.0,7.0,8.0,12.0,14.0,7.0,9.0,6.0,8.0,6.0,8.0,13.0,15.0,9.0,11.0,mahidol-university
+Mansoura University,,,0.0,1.0,5.0,6.0,7.0,8.0,7.0,11.0,6.0,7.0,4.0,7.0,6.0,9.0,6.0,7.0,mansoura-university
+Massachusetts General Hospital,13.0,18.0,11.0,25.0,7.0,34.0,8.0,29.0,15.0,41.0,14.0,42.0,13.0,32.0,18.0,41.0,15.0,27.0,massachusetts-general-hospital
+Mayo Clinic,22.0,27.0,45.0,52.0,4.0,25.0,6.0,29.0,16.0,41.0,16.0,41.0,15.0,40.0,13.0,28.0,19.0,29.0,mayo-clinic
+McMaster University,1.0,2.0,0.0,1.0,1.0,3.0,3.0,6.0,3.0,9.0,4.0,10.0,4.0,6.0,5.0,8.0,6.0,7.0,mcmaster-university
+Medical University of Graz,1.0,1.0,2.0,5.0,,,1.0,5.0,5.0,7.0,7.0,8.0,5.0,6.0,3.0,6.0,6.0,8.0,medical-university-of-graz
+Medical University of South Carolina,1.0,1.0,1.0,1.0,7.0,13.0,3.0,6.0,8.0,14.0,4.0,9.0,4.0,13.0,7.0,13.0,12.0,14.0,medical-university-of-south-carolina
+Medical University of Vienna,4.0,7.0,5.0,10.0,6.0,10.0,11.0,19.0,11.0,21.0,17.0,22.0,16.0,22.0,18.0,26.0,7.0,11.0,medical-university-of-vienna
+Memorial Sloan Kettering Cancer Center,13.0,13.0,11.0,12.0,2.0,13.0,5.0,17.0,1.0,11.0,10.0,16.0,6.0,18.0,5.0,14.0,6.0,18.0,memorial-sloan-kettering-cancer-center
+Merck KGaA,3.0,7.0,3.0,11.0,1.0,7.0,0.0,3.0,0.0,10.0,0.0,9.0,0.0,8.0,0.0,3.0,1.0,6.0,merck-kgaa
+Merck Sharp & Dohme Corp.,49.0,102.0,31.0,94.0,8.0,102.0,7.0,86.0,10.0,70.0,9.0,45.0,4.0,40.0,6.0,47.0,4.0,26.0,merck-sharp-dohme-corp
 Mitsubishi Tanabe Pharma Corporation,,,0.0,1.0,2.0,4.0,2.0,7.0,0.0,10.0,0.0,8.0,0.0,4.0,1.0,6.0,10.0,10.0,mitsubishi-tanabe-pharma-corporation
-Nantes University Hospital,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,4.0,4.0,6.0,6.0,7.0,7.0,11.0,11.0,6.0,6.0,nantes-university-hospital
-National Cancer Institute (NCI),66.0,66.0,113.0,116.0,3.0,41.0,6.0,62.0,6.0,82.0,5.0,57.0,9.0,55.0,8.0,45.0,6.0,34.0,national-cancer-institute-nci
-"National Heart, Lung, and Blood Institute (NHLBI)",9.0,9.0,13.0,14.0,10.0,16.0,6.0,10.0,1.0,4.0,1.0,1.0,3.0,5.0,3.0,5.0,2.0,4.0,national-heart-lung-and-blood-institute-nhlbi
-National Institute of Allergy and Infectious Diseases (NIAID),14.0,14.0,20.0,23.0,10.0,24.0,6.0,17.0,3.0,24.0,3.0,13.0,3.0,13.0,5.0,14.0,3.0,10.0,national-institute-of-allergy-and-infectious-diseases-niaid
-National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),6.0,6.0,9.0,12.0,8.0,16.0,8.0,15.0,7.0,11.0,4.0,8.0,5.0,10.0,3.0,6.0,0.0,3.0,national-institute-of-diabetes-and-digestive-and-kidney-diseases-niddk
-National Taiwan University Hospital,10.0,10.0,5.0,7.0,12.0,15.0,17.0,21.0,17.0,18.0,16.0,16.0,19.0,20.0,13.0,14.0,5.0,5.0,national-taiwan-university-hospital
-Nestlé,1.0,1.0,2.0,2.0,2.0,2.0,5.0,7.0,10.0,10.0,7.0,9.0,14.0,15.0,18.0,18.0,9.0,9.0,nestle
-New York State Psychiatric Institute,4.0,6.0,7.0,9.0,9.0,13.0,6.0,8.0,5.0,17.0,8.0,14.0,6.0,10.0,1.0,6.0,6.0,10.0,new-york-state-psychiatric-institute
-New York University School of Medicine,2.0,2.0,7.0,8.0,1.0,4.0,5.0,8.0,3.0,11.0,3.0,9.0,9.0,16.0,1.0,7.0,6.0,10.0,new-york-university-school-of-medicine
-Northwestern University,2.0,3.0,2.0,6.0,3.0,10.0,6.0,15.0,9.0,25.0,4.0,22.0,8.0,22.0,6.0,20.0,9.0,15.0,northwestern-university
-Norwegian University of Science and Technology,6.0,6.0,11.0,11.0,12.0,12.0,17.0,18.0,12.0,12.0,15.0,15.0,19.0,19.0,15.0,15.0,16.0,16.0,norwegian-university-of-science-and-technology
-Novartis,66.0,66.0,52.0,62.0,13.0,59.0,20.0,66.0,10.0,34.0,13.0,35.0,3.0,19.0,0.0,4.0,1.0,4.0,novartis
-Novartis Pharmaceuticals,31.0,31.0,36.0,50.0,11.0,51.0,18.0,45.0,22.0,57.0,28.0,58.0,47.0,81.0,46.0,98.0,8.0,63.0,novartis-pharmaceuticals
-Novartis Vaccines,3.0,7.0,8.0,16.0,6.0,13.0,13.0,20.0,9.0,21.0,6.0,15.0,2.0,14.0,0.0,13.0,1.0,10.0,novartis-vaccines
-Novo Nordisk A/S,30.0,31.0,13.0,17.0,1.0,12.0,4.0,18.0,0.0,26.0,2.0,11.0,0.0,12.0,0.0,11.0,2.0,9.0,novo-nordisk-a-s
-Oregon Health and Science University,2.0,2.0,3.0,3.0,5.0,11.0,7.0,10.0,5.0,9.0,14.0,17.0,8.0,11.0,7.0,8.0,5.0,8.0,oregon-health-and-science-university
-Oslo University Hospital,1.0,1.0,5.0,5.0,6.0,6.0,8.0,8.0,4.0,4.0,9.0,10.0,13.0,14.0,13.0,13.0,9.0,9.0,oslo-university-hospital
-"Otsuka Pharmaceutical Co., Ltd.",0.0,3.0,,,0.0,5.0,1.0,6.0,2.0,14.0,0.0,4.0,1.0,6.0,2.0,2.0,5.0,6.0,otsuka-pharmaceutical-co-ltd
-"Otsuka Pharmaceutical Development & Commercialization, Inc.",9.0,10.0,8.0,10.0,0.0,3.0,0.0,5.0,0.0,4.0,0.0,3.0,0.0,5.0,0.0,9.0,0.0,9.0,otsuka-pharmaceutical-development-commercialization-inc
-Ottawa Hospital Research Institute,1.0,1.0,2.0,2.0,3.0,3.0,6.0,7.0,13.0,14.0,11.0,14.0,7.0,7.0,3.0,3.0,7.0,7.0,ottawa-hospital-research-institute
-Pfizer,18.0,21.0,27.0,49.0,5.0,86.0,9.0,66.0,4.0,79.0,5.0,51.0,3.0,48.0,5.0,41.0,3.0,30.0,pfizer
-Queen's University,4.0,4.0,5.0,5.0,8.0,9.0,6.0,6.0,5.0,7.0,5.0,6.0,10.0,10.0,5.0,5.0,5.0,5.0,queen-s-university
-Radboud University,7.0,7.0,6.0,6.0,17.0,17.0,10.0,10.0,19.0,19.0,12.0,13.0,17.0,17.0,22.0,23.0,11.0,12.0,radboud-university
-"Rigshospitalet, Denmark",4.0,4.0,4.0,4.0,10.0,10.0,13.0,14.0,10.0,10.0,12.0,12.0,12.0,12.0,19.0,19.0,20.0,20.0,rigshospitalet-denmark
-"SCRI Development Innovations, LLC",6.0,6.0,7.0,7.0,0.0,21.0,0.0,8.0,0.0,6.0,0.0,3.0,0.0,5.0,0.0,3.0,0.0,8.0,scri-development-innovations-llc
-Samsung Medical Center,2.0,2.0,5.0,5.0,7.0,7.0,15.0,16.0,11.0,11.0,10.0,12.0,21.0,21.0,17.0,17.0,5.0,5.0,samsung-medical-center
-Sanofi,44.0,49.0,76.0,81.0,82.0,93.0,37.0,50.0,33.0,48.0,20.0,43.0,24.0,30.0,17.0,26.0,8.0,15.0,sanofi
-"Sanofi Pasteur, a Sanofi Company",3.0,12.0,6.0,17.0,11.0,27.0,10.0,25.0,7.0,11.0,4.0,9.0,6.0,15.0,4.0,14.0,6.0,9.0,sanofi-pasteur-a-sanofi-company
-Seoul National University Bundang Hospital,,,1.0,1.0,1.0,3.0,5.0,5.0,9.0,10.0,5.0,6.0,6.0,7.0,4.0,6.0,2.0,4.0,seoul-national-university-bundang-hospital
-Seoul National University Hospital,3.0,3.0,3.0,3.0,12.0,13.0,15.0,19.0,14.0,18.0,37.0,42.0,32.0,37.0,32.0,40.0,31.0,32.0,seoul-national-university-hospital
-Sheba Medical Center,1.0,1.0,2.0,2.0,6.0,6.0,13.0,14.0,8.0,8.0,4.0,4.0,1.0,1.0,4.0,4.0,2.0,2.0,sheba-medical-center
-Shire,2.0,3.0,1.0,5.0,0.0,11.0,0.0,10.0,0.0,9.0,0.0,12.0,0.0,14.0,0.0,23.0,0.0,9.0,shire
-Sidney Kimmel Comprehensive Cancer Center,1.0,1.0,9.0,9.0,2.0,4.0,11.0,16.0,3.0,4.0,4.0,4.0,1.0,2.0,4.0,4.0,2.0,4.0,sidney-kimmel-comprehensive-cancer-center
-Southwest Oncology Group,10.0,10.0,14.0,15.0,0.0,11.0,0.0,3.0,1.0,5.0,1.0,4.0,1.0,4.0,1.0,4.0,,,southwest-oncology-group
-St. Jude Medical,3.0,3.0,5.0,5.0,6.0,8.0,5.0,8.0,8.0,13.0,7.0,9.0,4.0,9.0,2.0,4.0,6.0,7.0,st-jude-medical
-"St. Michael's Hospital, Toronto",1.0,1.0,1.0,1.0,5.0,5.0,11.0,11.0,3.0,3.0,3.0,3.0,8.0,8.0,7.0,7.0,4.0,4.0,st-michael-s-hospital-toronto
-Stanford University,13.0,13.0,16.0,18.0,15.0,20.0,18.0,24.0,21.0,27.0,20.0,27.0,14.0,16.0,22.0,34.0,11.0,15.0,stanford-university
-Sun Yat-sen University,,,3.0,3.0,3.0,3.0,6.0,9.0,6.0,7.0,8.0,11.0,7.0,8.0,10.0,11.0,7.0,8.0,sun-yat-sen-university
-Sunnybrook Health Sciences Centre,1.0,1.0,1.0,1.0,3.0,3.0,5.0,6.0,7.0,7.0,10.0,10.0,12.0,12.0,3.0,3.0,9.0,9.0,sunnybrook-health-sciences-centre
-Sunovion,4.0,4.0,0.0,2.0,0.0,6.0,1.0,3.0,0.0,7.0,0.0,9.0,0.0,5.0,0.0,9.0,0.0,3.0,sunovion
-Takeda,18.0,25.0,26.0,40.0,10.0,31.0,2.0,25.0,4.0,14.0,2.0,11.0,7.0,19.0,23.0,35.0,2.0,11.0,takeda
-Tehran University of Medical Sciences,1.0,1.0,3.0,3.0,12.0,13.0,6.0,6.0,4.0,6.0,11.0,11.0,9.0,10.0,11.0,15.0,5.0,5.0,tehran-university-of-medical-sciences
-The Cleveland Clinic,3.0,3.0,5.0,5.0,1.0,4.0,6.0,7.0,3.0,7.0,9.0,10.0,6.0,11.0,3.0,4.0,7.0,10.0,the-cleveland-clinic
-The Hospital for Sick Children,3.0,3.0,7.0,7.0,11.0,11.0,12.0,15.0,8.0,9.0,12.0,12.0,12.0,13.0,14.0,14.0,9.0,10.0,the-hospital-for-sick-children
-The University of Hong Kong,2.0,2.0,2.0,2.0,5.0,6.0,6.0,6.0,14.0,14.0,10.0,10.0,14.0,14.0,16.0,17.0,9.0,9.0,the-university-of-hong-kong
-The University of Texas Health Science Center at San Antonio,3.0,4.0,6.0,6.0,3.0,4.0,2.0,4.0,2.0,7.0,4.0,7.0,1.0,4.0,2.0,7.0,3.0,4.0,the-university-of-texas-health-science-center-at-san-antonio
-"The University of Texas Health Science Center, Houston",1.0,1.0,5.0,6.0,4.0,8.0,2.0,4.0,3.0,4.0,8.0,15.0,7.0,14.0,8.0,15.0,5.0,6.0,the-university-of-texas-health-science-center-houston
-UCB Pharma,19.0,23.0,12.0,15.0,0.0,21.0,1.0,5.0,0.0,10.0,0.0,7.0,0.0,8.0,0.0,3.0,0.0,4.0,ucb-pharma
-UConn Health,2.0,2.0,5.0,5.0,2.0,3.0,4.0,6.0,9.0,10.0,3.0,4.0,8.0,9.0,0.0,1.0,4.0,4.0,uconn-health
-Universitaire Ziekenhuizen Leuven,,,1.0,1.0,1.0,1.0,2.0,2.0,6.0,6.0,6.0,7.0,2.0,2.0,9.0,9.0,19.0,19.0,universitaire-ziekenhuizen-leuven
-"University Health Network, Toronto",6.0,7.0,11.0,12.0,9.0,9.0,20.0,20.0,17.0,18.0,19.0,19.0,16.0,16.0,17.0,19.0,17.0,19.0,university-health-network-toronto
-"University Hospital Inselspital, Berne",1.0,1.0,6.0,6.0,7.0,7.0,9.0,9.0,7.0,7.0,5.0,5.0,8.0,8.0,4.0,4.0,7.0,7.0,university-hospital-inselspital-berne
-"University Hospital, Basel, Switzerland",0.0,1.0,4.0,4.0,9.0,9.0,6.0,7.0,10.0,12.0,11.0,11.0,4.0,4.0,9.0,10.0,6.0,6.0,university-hospital-basel-switzerland
-"University Hospital, Bordeaux",1.0,1.0,3.0,3.0,3.0,3.0,7.0,7.0,13.0,13.0,13.0,13.0,13.0,13.0,16.0,16.0,11.0,11.0,university-hospital-bordeaux
-"University Hospital, Clermont-Ferrand",1.0,1.0,2.0,2.0,9.0,9.0,5.0,5.0,6.0,6.0,8.0,8.0,6.0,6.0,14.0,14.0,4.0,4.0,university-hospital-clermont-ferrand
-"University Hospital, Geneva",,,5.0,6.0,8.0,8.0,7.0,7.0,5.0,5.0,5.0,6.0,5.0,5.0,8.0,9.0,3.0,3.0,university-hospital-geneva
-"University Hospital, Ghent",,,3.0,3.0,7.0,7.0,13.0,13.0,7.0,7.0,12.0,13.0,8.0,8.0,5.0,5.0,4.0,4.0,university-hospital-ghent
-"University Hospital, Grenoble",1.0,1.0,1.0,1.0,4.0,4.0,3.0,3.0,5.0,5.0,6.0,6.0,9.0,9.0,9.0,9.0,10.0,10.0,university-hospital-grenoble
-"University Hospital, Rouen",3.0,3.0,,,3.0,3.0,2.0,2.0,3.0,3.0,6.0,6.0,6.0,6.0,11.0,11.0,8.0,8.0,university-hospital-rouen
-"University Hospital, Toulouse",2.0,2.0,3.0,3.0,8.0,8.0,5.0,5.0,7.0,7.0,8.0,8.0,7.0,7.0,17.0,17.0,11.0,11.0,university-hospital-toulouse
-University Medical Center Groningen,1.0,1.0,0.0,1.0,2.0,2.0,8.0,8.0,1.0,1.0,2.0,3.0,7.0,8.0,8.0,9.0,7.0,8.0,university-medical-center-groningen
-University of Aarhus,5.0,5.0,10.0,10.0,15.0,15.0,19.0,20.0,24.0,24.0,23.0,24.0,27.0,27.0,30.0,31.0,24.0,25.0,university-of-aarhus
-University of Alabama at Birmingham,3.0,3.0,8.0,9.0,5.0,11.0,6.0,13.0,7.0,18.0,14.0,16.0,11.0,22.0,5.0,7.0,15.0,18.0,university-of-alabama-at-birmingham
-University of Alberta,3.0,4.0,1.0,2.0,3.0,3.0,6.0,6.0,10.0,10.0,10.0,12.0,9.0,9.0,15.0,16.0,10.0,10.0,university-of-alberta
-University of Arizona,3.0,3.0,3.0,3.0,5.0,6.0,2.0,2.0,5.0,6.0,3.0,3.0,2.0,6.0,4.0,5.0,7.0,7.0,university-of-arizona
-University of Arkansas,2.0,2.0,3.0,4.0,0.0,4.0,3.0,7.0,3.0,6.0,2.0,4.0,0.0,5.0,0.0,3.0,2.0,7.0,university-of-arkansas
-University of British Columbia,7.0,7.0,12.0,12.0,14.0,14.0,14.0,15.0,20.0,21.0,24.0,24.0,29.0,29.0,31.0,31.0,20.0,21.0,university-of-british-columbia
-University of Calgary,5.0,5.0,3.0,3.0,3.0,3.0,5.0,5.0,9.0,9.0,12.0,12.0,13.0,13.0,9.0,9.0,7.0,7.0,university-of-calgary
-"University of California, Davis",4.0,5.0,4.0,4.0,4.0,6.0,16.0,19.0,11.0,11.0,11.0,13.0,11.0,11.0,8.0,9.0,7.0,7.0,university-of-california-davis
-"University of California, Los Angeles",2.0,2.0,5.0,5.0,14.0,16.0,13.0,17.0,12.0,14.0,17.0,24.0,13.0,17.0,14.0,20.0,17.0,19.0,university-of-california-los-angeles
-"University of California, San Diego",2.0,2.0,1.0,1.0,5.0,9.0,13.0,18.0,12.0,14.0,13.0,15.0,14.0,17.0,10.0,13.0,19.0,20.0,university-of-california-san-diego
-"University of California, San Francisco",11.0,12.0,15.0,17.0,14.0,24.0,23.0,43.0,13.0,25.0,18.0,31.0,25.0,46.0,27.0,34.0,22.0,28.0,university-of-california-san-francisco
-University of Chicago,10.0,10.0,12.0,12.0,0.0,7.0,4.0,13.0,4.0,7.0,4.0,13.0,7.0,15.0,7.0,10.0,4.0,4.0,university-of-chicago
-University of Cincinnati,2.0,2.0,5.0,5.0,5.0,9.0,1.0,5.0,4.0,5.0,5.0,9.0,3.0,10.0,1.0,5.0,2.0,3.0,university-of-cincinnati
-"University of Colorado, Denver",6.0,6.0,4.0,5.0,9.0,10.0,11.0,15.0,10.0,16.0,10.0,19.0,17.0,21.0,10.0,16.0,10.0,14.0,university-of-colorado-denver
-University of Copenhagen,2.0,2.0,5.0,5.0,8.0,8.0,10.0,10.0,10.0,10.0,10.0,10.0,14.0,14.0,12.0,12.0,6.0,6.0,university-of-copenhagen
-University of Edinburgh,3.0,3.0,,,5.0,5.0,3.0,3.0,13.0,13.0,3.0,3.0,8.0,9.0,4.0,4.0,1.0,1.0,university-of-edinburgh
-University of Florida,3.0,3.0,4.0,4.0,3.0,9.0,4.0,16.0,7.0,13.0,9.0,13.0,3.0,15.0,6.0,14.0,6.0,19.0,university-of-florida
-University of Illinois at Chicago,,,4.0,4.0,2.0,5.0,4.0,7.0,3.0,6.0,4.0,6.0,4.0,5.0,4.0,5.0,2.0,3.0,university-of-illinois-at-chicago
-University of Iowa,2.0,2.0,2.0,2.0,7.0,9.0,7.0,7.0,3.0,6.0,8.0,11.0,6.0,8.0,1.0,4.0,11.0,12.0,university-of-iowa
-University of Manitoba,,,2.0,2.0,7.0,7.0,3.0,3.0,5.0,5.0,7.0,8.0,16.0,19.0,9.0,9.0,11.0,11.0,university-of-manitoba
-University of Maryland,3.0,3.0,2.0,3.0,5.0,7.0,3.0,3.0,6.0,8.0,4.0,7.0,9.0,13.0,6.0,6.0,7.0,8.0,university-of-maryland
-University of Miami,2.0,2.0,4.0,4.0,6.0,9.0,3.0,8.0,2.0,7.0,9.0,11.0,5.0,8.0,5.0,8.0,5.0,7.0,university-of-miami
-University of Michigan,6.0,6.0,7.0,7.0,10.0,14.0,15.0,21.0,15.0,24.0,10.0,14.0,20.0,25.0,18.0,23.0,21.0,29.0,university-of-michigan
-University of Minnesota - Clinical and Translational Science Institute,3.0,3.0,5.0,6.0,9.0,12.0,5.0,13.0,2.0,11.0,7.0,14.0,8.0,14.0,12.0,14.0,11.0,18.0,university-of-minnesota-clinical-and-translational-science-institute
-University of New Mexico,2.0,2.0,7.0,7.0,4.0,6.0,1.0,2.0,4.0,8.0,2.0,2.0,3.0,6.0,3.0,5.0,2.0,4.0,university-of-new-mexico
-"University of North Carolina, Chapel Hill",3.0,3.0,12.0,13.0,6.0,11.0,8.0,10.0,18.0,22.0,17.0,23.0,24.0,29.0,20.0,22.0,20.0,30.0,university-of-north-carolina-chapel-hill
-University of Nottingham,,,,,2.0,2.0,4.0,4.0,4.0,5.0,7.0,7.0,12.0,12.0,12.0,12.0,6.0,6.0,university-of-nottingham
-University of Oklahoma,2.0,2.0,6.0,6.0,3.0,6.0,0.0,4.0,5.0,6.0,5.0,5.0,7.0,7.0,2.0,2.0,4.0,4.0,university-of-oklahoma
-University of Oxford,,,,,1.0,2.0,5.0,5.0,8.0,9.0,2.0,2.0,8.0,10.0,12.0,12.0,9.0,10.0,university-of-oxford
-University of Pennsylvania,9.0,9.0,10.0,11.0,16.0,23.0,21.0,26.0,17.0,21.0,19.0,26.0,27.0,36.0,17.0,24.0,25.0,28.0,university-of-pennsylvania
-University of Pittsburgh,8.0,8.0,19.0,20.0,6.0,19.0,19.0,30.0,13.0,21.0,14.0,26.0,13.0,24.0,22.0,32.0,22.0,31.0,university-of-pittsburgh
-University of Rochester,7.0,7.0,9.0,10.0,1.0,9.0,6.0,14.0,3.0,15.0,3.0,9.0,9.0,12.0,6.0,12.0,5.0,10.0,university-of-rochester
-University of Sao Paulo,2.0,2.0,11.0,11.0,12.0,14.0,17.0,18.0,16.0,20.0,32.0,33.0,36.0,40.0,32.0,33.0,20.0,22.0,university-of-sao-paulo
-University of Sao Paulo General Hospital,,,,,8.0,8.0,8.0,8.0,7.0,7.0,7.0,7.0,4.0,4.0,10.0,11.0,9.0,9.0,university-of-sao-paulo-general-hospital
-University of Southern California,4.0,4.0,4.0,4.0,7.0,7.0,4.0,6.0,4.0,4.0,4.0,6.0,7.0,9.0,13.0,14.0,5.0,6.0,university-of-southern-california
-University of Texas Southwestern Medical Center,2.0,2.0,7.0,8.0,3.0,6.0,4.0,8.0,4.0,8.0,9.0,15.0,3.0,6.0,6.0,13.0,8.0,9.0,university-of-texas-southwestern-medical-center
-University of Toronto,1.0,1.0,6.0,6.0,7.0,7.0,4.0,4.0,7.0,7.0,8.0,8.0,11.0,12.0,5.0,6.0,6.0,7.0,university-of-toronto
-University of Utah,6.0,6.0,4.0,5.0,5.0,10.0,2.0,8.0,7.0,12.0,3.0,9.0,6.0,10.0,4.0,11.0,3.0,7.0,university-of-utah
-University of Virginia,2.0,2.0,2.0,2.0,4.0,5.0,3.0,7.0,6.0,7.0,4.0,7.0,2.0,6.0,8.0,11.0,7.0,8.0,university-of-virginia
-University of Washington,11.0,11.0,12.0,12.0,16.0,20.0,16.0,27.0,20.0,29.0,19.0,24.0,14.0,20.0,16.0,22.0,8.0,9.0,university-of-washington
-"University of Wisconsin, Madison",9.0,10.0,13.0,14.0,17.0,22.0,12.0,18.0,10.0,16.0,14.0,18.0,9.0,15.0,12.0,16.0,7.0,12.0,university-of-wisconsin-madison
-University of Zurich,1.0,1.0,5.0,5.0,5.0,6.0,13.0,13.0,11.0,11.0,7.0,7.0,19.0,19.0,11.0,11.0,12.0,12.0,university-of-zurich
-VA Office of Research and Development,16.0,16.0,28.0,34.0,9.0,48.0,8.0,56.0,7.0,53.0,7.0,55.0,4.0,43.0,4.0,54.0,5.0,31.0,va-office-of-research-and-development
-"Valeant Pharmaceuticals International, Inc.",5.0,5.0,7.0,7.0,6.0,9.0,1.0,8.0,2.0,6.0,0.0,1.0,3.0,3.0,6.0,6.0,1.0,2.0,valeant-pharmaceuticals-international-inc
-Vanderbilt University,8.0,8.0,14.0,15.0,14.0,18.0,13.0,19.0,13.0,20.0,12.0,20.0,6.0,12.0,9.0,14.0,11.0,13.0,vanderbilt-university
-Virginia Commonwealth University,2.0,2.0,2.0,2.0,3.0,6.0,1.0,4.0,4.0,5.0,1.0,2.0,6.0,9.0,9.0,15.0,4.0,5.0,virginia-commonwealth-university
-Wageningen University,1.0,1.0,,,3.0,3.0,5.0,5.0,0.0,1.0,16.0,16.0,11.0,11.0,4.0,4.0,5.0,5.0,wageningen-university
-Washington University School of Medicine,6.0,6.0,5.0,6.0,6.0,14.0,12.0,17.0,9.0,17.0,17.0,30.0,13.0,19.0,10.0,14.0,14.0,18.0,washington-university-school-of-medicine
-Weill Medical College of Cornell University,7.0,7.0,4.0,5.0,4.0,7.0,6.0,6.0,4.0,4.0,4.0,4.0,5.0,7.0,5.0,6.0,2.0,2.0,weill-medical-college-of-cornell-university
-Wyeth is now a wholly owned subsidiary of Pfizer,12.0,12.0,5.0,10.0,4.0,34.0,4.0,23.0,0.0,12.0,,,,,,,,,wyeth-is-now-a-wholly-owned-subsidiary-of-pfizer
-Yale University,7.0,8.0,5.0,7.0,8.0,17.0,9.0,18.0,12.0,18.0,5.0,21.0,12.0,24.0,22.0,36.0,14.0,20.0,yale-university
-Yonsei University,0.0,1.0,3.0,3.0,5.0,5.0,6.0,6.0,31.0,31.0,30.0,30.0,40.0,41.0,38.0,41.0,35.0,36.0,yonsei-university
+Nantes University Hospital,1.0,2.0,1.0,2.0,1.0,2.0,0.0,2.0,3.0,4.0,6.0,6.0,6.0,7.0,9.0,11.0,6.0,6.0,nantes-university-hospital
+National Cancer Institute (NCI),57.0,66.0,101.0,116.0,2.0,41.0,5.0,62.0,4.0,82.0,4.0,57.0,9.0,55.0,8.0,45.0,5.0,34.0,national-cancer-institute-nci
+"National Heart, Lung, and Blood Institute (NHLBI)",6.0,9.0,6.0,14.0,4.0,16.0,3.0,10.0,1.0,4.0,0.0,1.0,3.0,5.0,1.0,5.0,2.0,4.0,national-heart-lung-and-blood-institute-nhlbi
+National Institute of Allergy and Infectious Diseases (NIAID),8.0,14.0,11.0,23.0,5.0,24.0,4.0,17.0,1.0,24.0,2.0,13.0,2.0,13.0,5.0,14.0,1.0,10.0,national-institute-of-allergy-and-infectious-diseases-niaid
+National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),2.0,6.0,6.0,12.0,4.0,16.0,4.0,15.0,3.0,11.0,2.0,8.0,4.0,10.0,1.0,6.0,0.0,3.0,national-institute-of-diabetes-and-digestive-and-kidney-diseases-niddk
+National Taiwan University Hospital,9.0,10.0,4.0,7.0,11.0,15.0,15.0,21.0,15.0,18.0,16.0,16.0,15.0,20.0,10.0,14.0,4.0,5.0,national-taiwan-university-hospital
+Nestlé,1.0,1.0,0.0,2.0,2.0,2.0,3.0,7.0,7.0,10.0,6.0,9.0,13.0,15.0,18.0,18.0,9.0,9.0,nestle
+New York State Psychiatric Institute,1.0,6.0,6.0,9.0,9.0,13.0,5.0,8.0,4.0,17.0,7.0,14.0,3.0,10.0,0.0,6.0,5.0,10.0,new-york-state-psychiatric-institute
+New York University School of Medicine,1.0,2.0,4.0,8.0,0.0,4.0,2.0,8.0,1.0,11.0,3.0,9.0,7.0,16.0,1.0,7.0,6.0,10.0,new-york-university-school-of-medicine
+Northwestern University,2.0,3.0,2.0,6.0,1.0,10.0,4.0,15.0,4.0,25.0,2.0,22.0,7.0,22.0,6.0,20.0,7.0,15.0,northwestern-university
+Norwegian University of Science and Technology,4.0,6.0,6.0,11.0,6.0,12.0,11.0,18.0,8.0,12.0,10.0,15.0,16.0,19.0,11.0,15.0,12.0,16.0,norwegian-university-of-science-and-technology
+Novartis,47.0,66.0,36.0,62.0,11.0,59.0,15.0,66.0,8.0,34.0,11.0,35.0,2.0,19.0,0.0,4.0,1.0,4.0,novartis
+Novartis Pharmaceuticals,24.0,31.0,29.0,50.0,9.0,51.0,16.0,45.0,18.0,57.0,24.0,58.0,41.0,81.0,36.0,98.0,8.0,63.0,novartis-pharmaceuticals
+Novartis Vaccines,3.0,7.0,7.0,16.0,6.0,13.0,11.0,20.0,5.0,21.0,2.0,15.0,1.0,14.0,0.0,13.0,1.0,10.0,novartis-vaccines
+Novo Nordisk A/S,20.0,31.0,8.0,17.0,1.0,12.0,4.0,18.0,0.0,26.0,1.0,11.0,0.0,12.0,0.0,11.0,2.0,9.0,novo-nordisk-a-s
+Oregon Health and Science University,1.0,2.0,3.0,3.0,3.0,11.0,6.0,10.0,4.0,9.0,11.0,17.0,5.0,11.0,5.0,8.0,5.0,8.0,oregon-health-and-science-university
+Oslo University Hospital,1.0,1.0,4.0,5.0,5.0,6.0,4.0,8.0,1.0,4.0,5.0,10.0,8.0,14.0,6.0,13.0,5.0,9.0,oslo-university-hospital
+"Otsuka Pharmaceutical Co., Ltd.",0.0,3.0,,,0.0,5.0,1.0,6.0,1.0,14.0,0.0,4.0,1.0,6.0,2.0,2.0,5.0,6.0,otsuka-pharmaceutical-co-ltd
+"Otsuka Pharmaceutical Development & Commercialization, Inc.",5.0,10.0,3.0,10.0,0.0,3.0,0.0,5.0,0.0,4.0,0.0,3.0,0.0,5.0,0.0,9.0,0.0,9.0,otsuka-pharmaceutical-development-commercialization-inc
+Ottawa Hospital Research Institute,0.0,1.0,2.0,2.0,2.0,3.0,3.0,7.0,10.0,14.0,9.0,14.0,5.0,7.0,3.0,3.0,3.0,7.0,ottawa-hospital-research-institute
+Pfizer,15.0,21.0,21.0,49.0,4.0,86.0,7.0,66.0,3.0,79.0,5.0,51.0,3.0,48.0,4.0,41.0,3.0,30.0,pfizer
+Queen's University,4.0,4.0,4.0,5.0,6.0,9.0,3.0,6.0,3.0,7.0,4.0,6.0,9.0,10.0,4.0,5.0,5.0,5.0,queen-s-university
+Radboud University,5.0,7.0,2.0,6.0,6.0,17.0,7.0,10.0,8.0,19.0,6.0,13.0,8.0,17.0,10.0,23.0,8.0,12.0,radboud-university
+"Rigshospitalet, Denmark",3.0,4.0,3.0,4.0,6.0,10.0,6.0,14.0,9.0,10.0,7.0,12.0,8.0,12.0,11.0,19.0,12.0,20.0,rigshospitalet-denmark
+"SCRI Development Innovations, LLC",6.0,6.0,6.0,7.0,0.0,21.0,0.0,8.0,0.0,6.0,0.0,3.0,0.0,5.0,0.0,3.0,0.0,8.0,scri-development-innovations-llc
+Samsung Medical Center,1.0,2.0,4.0,5.0,3.0,7.0,12.0,16.0,9.0,11.0,7.0,12.0,11.0,21.0,14.0,17.0,4.0,5.0,samsung-medical-center
+Sanofi,35.0,49.0,67.0,81.0,75.0,93.0,32.0,50.0,23.0,48.0,16.0,43.0,16.0,30.0,15.0,26.0,8.0,15.0,sanofi
+"Sanofi Pasteur, a Sanofi Company",2.0,12.0,2.0,17.0,7.0,27.0,7.0,25.0,7.0,11.0,3.0,9.0,4.0,15.0,3.0,14.0,6.0,9.0,sanofi-pasteur-a-sanofi-company
+Seoul National University Bundang Hospital,,,1.0,1.0,1.0,3.0,3.0,5.0,6.0,10.0,5.0,6.0,2.0,7.0,4.0,6.0,2.0,4.0,seoul-national-university-bundang-hospital
+Seoul National University Hospital,2.0,3.0,3.0,3.0,9.0,13.0,7.0,19.0,11.0,18.0,28.0,42.0,19.0,37.0,29.0,40.0,28.0,32.0,seoul-national-university-hospital
+Sheba Medical Center,1.0,1.0,1.0,2.0,4.0,6.0,9.0,14.0,7.0,8.0,2.0,4.0,1.0,1.0,2.0,4.0,1.0,2.0,sheba-medical-center
+Shire,0.0,3.0,0.0,5.0,0.0,11.0,0.0,10.0,0.0,9.0,0.0,12.0,0.0,14.0,0.0,23.0,0.0,9.0,shire
+Sidney Kimmel Comprehensive Cancer Center,1.0,1.0,9.0,9.0,2.0,4.0,10.0,16.0,1.0,4.0,4.0,4.0,1.0,2.0,4.0,4.0,2.0,4.0,sidney-kimmel-comprehensive-cancer-center
+Southwest Oncology Group,8.0,10.0,13.0,15.0,0.0,11.0,0.0,3.0,0.0,5.0,0.0,4.0,1.0,4.0,0.0,4.0,,,southwest-oncology-group
+St. Jude Medical,1.0,3.0,2.0,5.0,3.0,8.0,2.0,8.0,5.0,13.0,5.0,9.0,1.0,9.0,2.0,4.0,3.0,7.0,st-jude-medical
+"St. Michael's Hospital, Toronto",0.0,1.0,1.0,1.0,5.0,5.0,6.0,11.0,1.0,3.0,2.0,3.0,6.0,8.0,7.0,7.0,4.0,4.0,st-michael-s-hospital-toronto
+Stanford University,8.0,13.0,13.0,18.0,11.0,20.0,17.0,24.0,18.0,27.0,16.0,27.0,8.0,16.0,17.0,34.0,8.0,15.0,stanford-university
+Sun Yat-sen University,,,2.0,3.0,2.0,3.0,6.0,9.0,4.0,7.0,5.0,11.0,7.0,8.0,8.0,11.0,7.0,8.0,sun-yat-sen-university
+Sunnybrook Health Sciences Centre,1.0,1.0,0.0,1.0,3.0,3.0,3.0,6.0,4.0,7.0,7.0,10.0,8.0,12.0,2.0,3.0,9.0,9.0,sunnybrook-health-sciences-centre
+Sunovion,3.0,4.0,0.0,2.0,0.0,6.0,1.0,3.0,0.0,7.0,0.0,9.0,0.0,5.0,0.0,9.0,0.0,3.0,sunovion
+Takeda,14.0,25.0,16.0,40.0,8.0,31.0,2.0,25.0,4.0,14.0,2.0,11.0,6.0,19.0,21.0,35.0,2.0,11.0,takeda
+Tehran University of Medical Sciences,0.0,1.0,3.0,3.0,10.0,13.0,5.0,6.0,4.0,6.0,8.0,11.0,7.0,10.0,10.0,15.0,5.0,5.0,tehran-university-of-medical-sciences
+The Cleveland Clinic,3.0,3.0,4.0,5.0,0.0,4.0,6.0,7.0,2.0,7.0,7.0,10.0,6.0,11.0,2.0,4.0,6.0,10.0,the-cleveland-clinic
+The Hospital for Sick Children,3.0,3.0,3.0,7.0,6.0,11.0,6.0,15.0,4.0,9.0,9.0,12.0,10.0,13.0,10.0,14.0,7.0,10.0,the-hospital-for-sick-children
+The University of Hong Kong,2.0,2.0,1.0,2.0,3.0,6.0,3.0,6.0,10.0,14.0,6.0,10.0,10.0,14.0,9.0,17.0,7.0,9.0,the-university-of-hong-kong
+The University of Texas Health Science Center at San Antonio,1.0,4.0,6.0,6.0,3.0,4.0,1.0,4.0,2.0,7.0,4.0,7.0,1.0,4.0,2.0,7.0,3.0,4.0,the-university-of-texas-health-science-center-at-san-antonio
+"The University of Texas Health Science Center, Houston",0.0,1.0,5.0,6.0,1.0,8.0,2.0,4.0,3.0,4.0,7.0,15.0,5.0,14.0,6.0,15.0,5.0,6.0,the-university-of-texas-health-science-center-houston
+UCB Pharma,10.0,23.0,10.0,15.0,0.0,21.0,1.0,5.0,0.0,10.0,0.0,7.0,0.0,8.0,0.0,3.0,0.0,4.0,ucb-pharma
+UConn Health,2.0,2.0,4.0,5.0,2.0,3.0,3.0,6.0,9.0,10.0,3.0,4.0,7.0,9.0,0.0,1.0,3.0,4.0,uconn-health
+Universitaire Ziekenhuizen Leuven,,,0.0,1.0,1.0,1.0,2.0,2.0,5.0,6.0,4.0,7.0,2.0,2.0,6.0,9.0,16.0,19.0,universitaire-ziekenhuizen-leuven
+"University Health Network, Toronto",4.0,7.0,8.0,12.0,8.0,9.0,15.0,20.0,16.0,18.0,16.0,19.0,13.0,16.0,14.0,19.0,15.0,19.0,university-health-network-toronto
+"University Hospital Inselspital, Berne",0.0,1.0,4.0,6.0,5.0,7.0,5.0,9.0,3.0,7.0,3.0,5.0,3.0,8.0,1.0,4.0,5.0,7.0,university-hospital-inselspital-berne
+"University Hospital, Basel, Switzerland",0.0,1.0,2.0,4.0,4.0,9.0,3.0,7.0,7.0,12.0,8.0,11.0,2.0,4.0,8.0,10.0,4.0,6.0,university-hospital-basel-switzerland
+"University Hospital, Bordeaux",1.0,1.0,2.0,3.0,2.0,3.0,5.0,7.0,10.0,13.0,9.0,13.0,10.0,13.0,15.0,16.0,11.0,11.0,university-hospital-bordeaux
+"University Hospital, Clermont-Ferrand",0.0,1.0,1.0,2.0,7.0,9.0,4.0,5.0,4.0,6.0,5.0,8.0,5.0,6.0,12.0,14.0,4.0,4.0,university-hospital-clermont-ferrand
+"University Hospital, Geneva",,,2.0,6.0,2.0,8.0,4.0,7.0,3.0,5.0,4.0,6.0,4.0,5.0,4.0,9.0,3.0,3.0,university-hospital-geneva
+"University Hospital, Ghent",,,3.0,3.0,7.0,7.0,10.0,13.0,7.0,7.0,10.0,13.0,6.0,8.0,4.0,5.0,4.0,4.0,university-hospital-ghent
+"University Hospital, Grenoble",0.0,1.0,1.0,1.0,1.0,4.0,3.0,3.0,4.0,5.0,5.0,6.0,7.0,9.0,7.0,9.0,9.0,10.0,university-hospital-grenoble
+"University Hospital, Rouen",1.0,3.0,,,2.0,3.0,1.0,2.0,3.0,3.0,6.0,6.0,5.0,6.0,10.0,11.0,8.0,8.0,university-hospital-rouen
+"University Hospital, Toulouse",1.0,2.0,1.0,3.0,5.0,8.0,3.0,5.0,5.0,7.0,6.0,8.0,6.0,7.0,17.0,17.0,11.0,11.0,university-hospital-toulouse
+University Medical Center Groningen,0.0,1.0,0.0,1.0,0.0,2.0,4.0,8.0,0.0,1.0,1.0,3.0,5.0,8.0,6.0,9.0,6.0,8.0,university-medical-center-groningen
+University of Aarhus,3.0,5.0,6.0,10.0,9.0,15.0,14.0,20.0,15.0,24.0,13.0,24.0,16.0,27.0,19.0,31.0,24.0,25.0,university-of-aarhus
+University of Alabama at Birmingham,3.0,3.0,7.0,9.0,4.0,11.0,2.0,13.0,6.0,18.0,11.0,16.0,6.0,22.0,4.0,7.0,12.0,18.0,university-of-alabama-at-birmingham
+University of Alberta,1.0,4.0,1.0,2.0,2.0,3.0,6.0,6.0,9.0,10.0,4.0,12.0,6.0,9.0,10.0,16.0,9.0,10.0,university-of-alberta
+University of Arizona,3.0,3.0,3.0,3.0,4.0,6.0,1.0,2.0,3.0,6.0,2.0,3.0,1.0,6.0,3.0,5.0,6.0,7.0,university-of-arizona
+University of Arkansas,2.0,2.0,3.0,4.0,0.0,4.0,3.0,7.0,1.0,6.0,2.0,4.0,0.0,5.0,0.0,3.0,2.0,7.0,university-of-arkansas
+University of British Columbia,7.0,7.0,10.0,12.0,12.0,14.0,12.0,15.0,14.0,21.0,18.0,24.0,16.0,29.0,25.0,31.0,14.0,21.0,university-of-british-columbia
+University of Calgary,3.0,5.0,1.0,3.0,1.0,3.0,5.0,5.0,9.0,9.0,11.0,12.0,11.0,13.0,7.0,9.0,6.0,7.0,university-of-calgary
+"University of California, Davis",4.0,5.0,2.0,4.0,3.0,6.0,10.0,19.0,9.0,11.0,7.0,13.0,9.0,11.0,7.0,9.0,3.0,7.0,university-of-california-davis
+"University of California, Los Angeles",2.0,2.0,1.0,5.0,9.0,16.0,10.0,17.0,7.0,14.0,11.0,24.0,10.0,17.0,8.0,20.0,15.0,19.0,university-of-california-los-angeles
+"University of California, San Diego",2.0,2.0,1.0,1.0,4.0,9.0,8.0,18.0,10.0,14.0,9.0,15.0,11.0,17.0,7.0,13.0,15.0,20.0,university-of-california-san-diego
+"University of California, San Francisco",8.0,12.0,14.0,17.0,9.0,24.0,18.0,43.0,11.0,25.0,15.0,31.0,15.0,46.0,17.0,34.0,18.0,28.0,university-of-california-san-francisco
+University of Chicago,7.0,10.0,7.0,12.0,0.0,7.0,3.0,13.0,4.0,7.0,3.0,13.0,7.0,15.0,4.0,10.0,4.0,4.0,university-of-chicago
+University of Cincinnati,2.0,2.0,4.0,5.0,3.0,9.0,1.0,5.0,4.0,5.0,3.0,9.0,1.0,10.0,1.0,5.0,2.0,3.0,university-of-cincinnati
+"University of Colorado, Denver",5.0,6.0,3.0,5.0,6.0,10.0,9.0,15.0,6.0,16.0,8.0,19.0,13.0,21.0,8.0,16.0,7.0,14.0,university-of-colorado-denver
+University of Copenhagen,2.0,2.0,4.0,5.0,5.0,8.0,5.0,10.0,5.0,10.0,4.0,10.0,9.0,14.0,8.0,12.0,4.0,6.0,university-of-copenhagen
+University of Edinburgh,1.0,3.0,,,2.0,5.0,0.0,3.0,4.0,13.0,1.0,3.0,5.0,9.0,2.0,4.0,0.0,1.0,university-of-edinburgh
+University of Florida,2.0,3.0,2.0,4.0,2.0,9.0,1.0,16.0,2.0,13.0,7.0,13.0,3.0,15.0,6.0,14.0,5.0,19.0,university-of-florida
+University of Illinois at Chicago,,,4.0,4.0,2.0,5.0,1.0,7.0,2.0,6.0,3.0,6.0,4.0,5.0,3.0,5.0,2.0,3.0,university-of-illinois-at-chicago
+University of Iowa,1.0,2.0,2.0,2.0,6.0,9.0,6.0,7.0,2.0,6.0,5.0,11.0,4.0,8.0,1.0,4.0,7.0,12.0,university-of-iowa
+University of Manitoba,,,1.0,2.0,4.0,7.0,1.0,3.0,2.0,5.0,5.0,8.0,14.0,19.0,6.0,9.0,11.0,11.0,university-of-manitoba
+University of Maryland,2.0,3.0,2.0,3.0,4.0,7.0,3.0,3.0,5.0,8.0,4.0,7.0,6.0,13.0,6.0,6.0,6.0,8.0,university-of-maryland
+University of Miami,1.0,2.0,3.0,4.0,5.0,9.0,2.0,8.0,2.0,7.0,7.0,11.0,4.0,8.0,5.0,8.0,3.0,7.0,university-of-miami
+University of Michigan,2.0,6.0,6.0,7.0,7.0,14.0,10.0,21.0,9.0,24.0,10.0,14.0,18.0,25.0,14.0,23.0,19.0,29.0,university-of-michigan
+University of Minnesota - Clinical and Translational Science Institute,1.0,3.0,3.0,6.0,8.0,12.0,3.0,13.0,2.0,11.0,3.0,14.0,4.0,14.0,11.0,14.0,8.0,18.0,university-of-minnesota-clinical-and-translational-science-institute
+University of New Mexico,2.0,2.0,4.0,7.0,3.0,6.0,0.0,2.0,3.0,8.0,2.0,2.0,2.0,6.0,3.0,5.0,0.0,4.0,university-of-new-mexico
+"University of North Carolina, Chapel Hill",3.0,3.0,8.0,13.0,5.0,11.0,5.0,10.0,13.0,22.0,6.0,23.0,18.0,29.0,12.0,22.0,16.0,30.0,university-of-north-carolina-chapel-hill
+University of Nottingham,,,,,1.0,2.0,2.0,4.0,3.0,5.0,5.0,7.0,8.0,12.0,8.0,12.0,6.0,6.0,university-of-nottingham
+University of Oklahoma,1.0,2.0,5.0,6.0,2.0,6.0,0.0,4.0,5.0,6.0,4.0,5.0,7.0,7.0,2.0,2.0,4.0,4.0,university-of-oklahoma
+University of Oxford,,,,,0.0,2.0,1.0,5.0,4.0,9.0,1.0,2.0,5.0,10.0,8.0,12.0,5.0,10.0,university-of-oxford
+University of Pennsylvania,7.0,9.0,8.0,11.0,10.0,23.0,15.0,26.0,13.0,21.0,12.0,26.0,20.0,36.0,14.0,24.0,21.0,28.0,university-of-pennsylvania
+University of Pittsburgh,3.0,8.0,14.0,20.0,4.0,19.0,14.0,30.0,9.0,21.0,12.0,26.0,7.0,24.0,18.0,32.0,17.0,31.0,university-of-pittsburgh
+University of Rochester,7.0,7.0,9.0,10.0,1.0,9.0,4.0,14.0,2.0,15.0,2.0,9.0,7.0,12.0,5.0,12.0,3.0,10.0,university-of-rochester
+University of Sao Paulo,0.0,2.0,7.0,11.0,5.0,14.0,10.0,18.0,10.0,20.0,22.0,33.0,27.0,40.0,27.0,33.0,17.0,22.0,university-of-sao-paulo
+University of Sao Paulo General Hospital,,,,,6.0,8.0,5.0,8.0,7.0,7.0,5.0,7.0,4.0,4.0,9.0,11.0,7.0,9.0,university-of-sao-paulo-general-hospital
+University of Southern California,3.0,4.0,3.0,4.0,4.0,7.0,1.0,6.0,4.0,4.0,1.0,6.0,7.0,9.0,7.0,14.0,5.0,6.0,university-of-southern-california
+University of Texas Southwestern Medical Center,1.0,2.0,6.0,8.0,3.0,6.0,4.0,8.0,3.0,8.0,7.0,15.0,2.0,6.0,5.0,13.0,8.0,9.0,university-of-texas-southwestern-medical-center
+University of Toronto,1.0,1.0,3.0,6.0,5.0,7.0,3.0,4.0,7.0,7.0,4.0,8.0,7.0,12.0,3.0,6.0,4.0,7.0,university-of-toronto
+University of Utah,3.0,6.0,3.0,5.0,4.0,10.0,2.0,8.0,6.0,12.0,1.0,9.0,5.0,10.0,2.0,11.0,2.0,7.0,university-of-utah
+University of Virginia,1.0,2.0,2.0,2.0,4.0,5.0,2.0,7.0,4.0,7.0,3.0,7.0,1.0,6.0,6.0,11.0,6.0,8.0,university-of-virginia
+University of Washington,11.0,11.0,9.0,12.0,10.0,20.0,12.0,27.0,15.0,29.0,13.0,24.0,10.0,20.0,9.0,22.0,4.0,9.0,university-of-washington
+"University of Wisconsin, Madison",9.0,10.0,9.0,14.0,12.0,22.0,9.0,18.0,7.0,16.0,13.0,18.0,7.0,15.0,10.0,16.0,5.0,12.0,university-of-wisconsin-madison
+University of Zurich,1.0,1.0,3.0,5.0,2.0,6.0,5.0,13.0,7.0,11.0,2.0,7.0,7.0,19.0,8.0,11.0,8.0,12.0,university-of-zurich
+VA Office of Research and Development,11.0,16.0,21.0,34.0,9.0,48.0,7.0,56.0,6.0,53.0,5.0,55.0,4.0,43.0,4.0,54.0,5.0,31.0,va-office-of-research-and-development
+"Valeant Pharmaceuticals International, Inc.",5.0,5.0,4.0,7.0,3.0,9.0,0.0,8.0,1.0,6.0,0.0,1.0,3.0,3.0,4.0,6.0,1.0,2.0,valeant-pharmaceuticals-international-inc
+Vanderbilt University,6.0,8.0,9.0,15.0,12.0,18.0,10.0,19.0,10.0,20.0,9.0,20.0,4.0,12.0,8.0,14.0,11.0,13.0,vanderbilt-university
+Virginia Commonwealth University,2.0,2.0,2.0,2.0,3.0,6.0,0.0,4.0,3.0,5.0,0.0,2.0,6.0,9.0,7.0,15.0,3.0,5.0,virginia-commonwealth-university
+Wageningen University,1.0,1.0,,,0.0,3.0,0.0,5.0,0.0,1.0,11.0,16.0,7.0,11.0,3.0,4.0,5.0,5.0,wageningen-university
+Washington University School of Medicine,3.0,6.0,3.0,6.0,6.0,14.0,10.0,17.0,6.0,17.0,10.0,30.0,10.0,19.0,8.0,14.0,12.0,18.0,washington-university-school-of-medicine
+Weill Medical College of Cornell University,6.0,7.0,3.0,5.0,3.0,7.0,6.0,6.0,4.0,4.0,4.0,4.0,4.0,7.0,3.0,6.0,2.0,2.0,weill-medical-college-of-cornell-university
+Wyeth is now a wholly owned subsidiary of Pfizer,8.0,12.0,4.0,10.0,3.0,34.0,3.0,23.0,0.0,12.0,,,,,,,,,wyeth-is-now-a-wholly-owned-subsidiary-of-pfizer
+Yale University,4.0,8.0,4.0,7.0,6.0,17.0,7.0,18.0,11.0,18.0,3.0,21.0,8.0,24.0,17.0,36.0,12.0,20.0,yale-university
+Yonsei University,0.0,1.0,2.0,3.0,4.0,5.0,4.0,6.0,27.0,31.0,25.0,30.0,26.0,41.0,26.0,41.0,28.0,36.0,yonsei-university
