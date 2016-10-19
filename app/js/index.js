@@ -1,9 +1,10 @@
 $(document).ready(function() {
 
+  // For non-JS users.
   $('.jscontent').show();
   $('.nojs').hide();
 
-  //Initialise chart elements.
+  // Initialise chart elements.
   var colors = ['#002147', '#ff4800'];
   var margin = {top: 0, right: 0, bottom: 60, left: 70},
       bodyWidth = $('#chart-container').width(),
@@ -19,7 +20,6 @@ $(document).ready(function() {
   var yAxis = d3.svg.axis()
       .scale(y)
       .orient("left");
-      //.ticks(10, "%");
   var svg = d3.select("#chart").append("svg")
       .attr("width", width + margin.left + margin.right)
       .attr("height", height + margin.top + margin.bottom)
@@ -45,7 +45,6 @@ $(document).ready(function() {
 
     // Bind tooltips.
     var tip = d3.tip().attr('class', 'd3-tip')
-      // .html(function(d) { return "hello world"; })
       .attr('class', 'd3-tip')
       .offset([-10, 0])
       .html(function(d) {
@@ -94,7 +93,6 @@ $(document).ready(function() {
         "info": false,
         "searching": false,
         "scrollY": 260,
-        // "scrollX": false,
         "order": [[2, 'desc']],
         "columnDefs": [
           { "orderable": false, "targets": 0 },
@@ -135,7 +133,8 @@ $(document).ready(function() {
     var data = {}, patt = /\d{4}/i, totals = {total: 0, overdue: 0, temp: {}};
     allData.forEach(function(d) {
       // d is our horrible dict with keys for 2006_overdue, 2006_total etc.
-      // Divide it into a dict with a key for each year.
+      // Divide it into a dict with a key for each year, then another key for
+      // total and overdue.
       var temp = {};
       for (var k in d) {
         if (patt.test(k)) {
@@ -149,7 +148,8 @@ $(document).ready(function() {
         }
       }
       // temp is a dict with a key for each year, then a key for overdue/total.
-      // Now we're going to make it into an array of dicts.
+      // Now we're going to make that into an array of dicts, and we're
+      // also going to count up submitted at the same time.
       var tempArr = [], total = 0, overdue = 0, tempDict = {};
       for (var year in temp) {
         tempDict = {};
@@ -159,6 +159,7 @@ $(document).ready(function() {
         tempDict.submitted = tempDict.total - tempDict.overdue;
         tempDict.rate = (tempDict.total > 0) ? tempDict.overdue / tempDict.total: 0;
         tempArr.push(tempDict);
+        // Update totals.
         if (year in totals.temp) {
            totals.temp[year].total += temp[year].total;
            totals.temp[year].overdue += temp[year].overdue;
@@ -171,9 +172,8 @@ $(document).ready(function() {
         total += temp[year].total;
         overdue += temp[year].overdue;
       }
-      // now we're going to take our array of dicts, and make it a property.
-      totals.total += total;
-      totals.overdue += overdue;
+      // Now we're going to take our array of dicts, and make it a property
+      // on the higher-level dictionary entry.
       data[d.lead_sponsor_slug] = {
         'data': tempArr,
         'total': total,
@@ -182,6 +182,8 @@ $(document).ready(function() {
         'slug': d.lead_sponsor_slug
       };
       data[d.lead_sponsor_slug].rate = overdue / total;
+      totals.total += total;
+      totals.overdue += overdue;
     });
     tempArr = [];
     for (var year1 in totals.temp) {
@@ -206,41 +208,18 @@ $(document).ready(function() {
 
   // Add data in chart.
   function updateChart(allData, orgName) {
-    window.location.hash = orgName;
 
+    var data = allData[orgName].data,
+      name = allData[orgName].name;
+
+    // Update hash, table and chart description.
+    window.location.hash = orgName;
     var row = $('[data-value="' + orgName + '"]');
     if (!row.hasClass('row_selected') ) {
         $('tr.top').removeClass('row_selected');
         row.addClass('row_selected');
     }
-
-    // Expects an array of objects, each object to have a 'year' field and
-    // an 'overdue' field.
-    var data = allData[orgName].data,
-      name = allData[orgName].name;
-
-    //$('#orgname-header').text(allData[orgName].name);
-
-    // Update title field.
-    var url = 'https://clinicaltrials.gov/ct2/results/displayOpt?';
-    url += 'flds=a&flds=b&flds=f&flds=g&flds=s&flds=u&submit_fld_opt=on';
-    url += '&recr=Completed&type=Intr&lead=' + name + '&lead_ex=Y&show_flds=Y';
-    var title = 'Since Jan 2006, <strong>';
-    title += name + '</strong>';
-    title += ' completed ' + allData[orgName].total.toLocaleString();
-    title += " eligible trials and <strong><span style='color: #ff4800'>";
-    title +=  (orgName === '') ? " haven't " : "hasn't ";
-    title += "published results for ";
-    title += allData[orgName].overdue.toLocaleString() + ' trials</span></strong>. ';
-    title += 'That means ' + (allData[orgName].rate *100).toFixed(1) + '% of ';
-    title += (orgName === '') ? ' all ' : ' its ';
-    title += 'trials are missing results. ';
-    if (orgName !== '') {
-      title += "See <a target='_blank' href='" + url + "'>all its ";
-      title +=  "completed trials on ClinicalTrials.gov&nbsp;";
-      title += "<span style='font-size: 60%' ";
-      title += "class='glyphicon glyphicon-new-window'></span></a>.";
-  }
+    var title = getChartDescription(allData[orgName], name, orgName);
     d3.select('#title').html(title);
 
     // Draw the stack layout.
@@ -283,23 +262,29 @@ $(document).ready(function() {
     rect.on("mouseover", function(d) {
       tip.show(d);
     }).on("mouseout", function() { tip.hide(); });
-    // var bars = svg.selectAll(".bar").data(data, function(d) { return d.year; });
-    // bars.exit()
-    //   .transition()
-    //     .duration(300)
-    //   .attr("y", y(0))
-    //   .attr("height", height - y(0))
-    //   .style('fill-opacity', 1e-6)
-    //   .remove();
-    // bars.enter().append("rect")
-    //   .attr("class", "bar")
-    //   .attr("y", y(0))
-    //   .attr("height", height - y(0));
-    // bars.transition().duration(300)
-    //   .attr("x", function(d) { return x(d.year); })
-    //   .attr("width", x.rangeBand())
-    //   .attr("y", function(d) { return y(d.total); })
-    //   .attr("height", function(d) { return height - y(d.total); });
+  }
+
+  function getChartDescription(data, name, orgName) {
+    var title = 'Since Jan 2006, <strong>', url;
+    title += name + '</strong>';
+    title += ' completed ' + data.total.toLocaleString();
+    title += " eligible trials and <strong><span style='color: #ff4800'>";
+    title +=  (orgName === '') ? " haven't " : "hasn't ";
+    title += "published results for ";
+    title += data.overdue.toLocaleString() + ' trials</span></strong>. ';
+    title += 'That means ' + (data.rate *100).toFixed(1) + '% of ';
+    title += (orgName === '') ? ' all ' : ' its ';
+    title += 'trials are missing results. ';
+    url = 'https://clinicaltrials.gov/ct2/results/displayOpt?';
+    url += 'flds=a&flds=b&flds=f&flds=g&flds=s&flds=u&submit_fld_opt=on';
+    url += '&recr=Completed&type=Intr&lead=' + name + '&lead_ex=Y&show_flds=Y';
+    if (orgName !== '') {
+      title += "See <a target='_blank' href='" + url + "'>all its ";
+      title +=  "completed trials on ClinicalTrials.gov&nbsp;";
+      title += "<span style='font-size: 60%' ";
+      title += "class='glyphicon glyphicon-new-window'></span></a>.";
+    }
+    return title;
   }
 
 });
