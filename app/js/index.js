@@ -6,7 +6,7 @@ $(document).ready(function() {
 
   // Initialise chart elements.
   var colors = ['#002147', '#ff4800'];
-  var margin = {top: 0, right: 0, bottom: 60, left: 70},
+  var margin = {top: 10, right: 0, bottom: 25, left: 70},
       bodyWidth = $('#chart-container').width(),
       width = (bodyWidth * 0.9) - margin.left - margin.right,
       height = (500 * 0.7) - margin.top - margin.bottom;
@@ -28,12 +28,12 @@ $(document).ready(function() {
   var xAxisOffset = width / 2;
   svg.append("g")
       .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .append("text")
-      .attr("y", margin.bottom-30)
-      .attr("x", xAxisOffset)
-      .style("text-anchor", "middle")
-      .text("Year trial completed");
+      .attr("transform", "translate(0," + height + ")");
+      // .append("text")
+      // .attr("y", margin.bottom-30)
+      // .attr("x", xAxisOffset)
+      // .style("text-anchor", "middle")
+      // .text("Year trial completed");
   svg.append("g")
       .attr("class", "y axis")
       .append("text")
@@ -41,7 +41,7 @@ $(document).ready(function() {
       .attr("y", -45)
       .attr("x", -80)
       .style("text-anchor", "end")
-      .text("Number of trials");
+      .text("Number of trials completed");
 
     // Bind tooltips.
     var tip = d3.tip().attr('class', 'd3-tip')
@@ -106,6 +106,16 @@ $(document).ready(function() {
         } );
     } ).draw();
 
+    // Bind events.
+    $(".top").on("click", function() {
+      updateChart(data, $(this).data('value'));
+    });
+    $(".reset").on("click", function(e) {
+      e.stopImmediatePropagation();
+      e.preventDefault();
+      updateChart(data, '');
+    });
+
     // Draw the graph.
     var hash = window.location.hash.substr(1);
     if ((hash !== '') && (hash in data)) {
@@ -113,15 +123,6 @@ $(document).ready(function() {
     } else {
       updateChart(data, '');
     }
-
-    // Bind events for clicking on sponsor name in table.
-    $(".top").on("click", function() {
-      updateChart(data, $(this).data('value'));
-    });
-    $(".reset").on("click", function(e) {
-      e.preventDefault();
-      updateChart(data, '');
-    });
   });
 
   function reshapeData(allData) {
@@ -208,12 +209,12 @@ $(document).ready(function() {
 
   // Add data in chart.
   function updateChart(allData, orgName) {
-
     var data = allData[orgName].data,
       name = allData[orgName].name;
 
-    // Update hash, table and chart description.
-    window.location.hash = orgName;
+    // Update hash, table and chart description. Use dummy
+    // hash if needed to avoid gratuitous page scroll.
+    window.location.hash = (orgName === '') ? '/' : orgName;
     var row = $('[data-value="' + orgName + '"]');
     if (!row.hasClass('row_selected') ) {
         $('tr.top').removeClass('row_selected');
