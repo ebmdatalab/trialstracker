@@ -75,6 +75,16 @@ rect {
 .x.axis path {
   display: none;
 }
+#reset-wrapper {
+  text-align: right;
+  overflow: hidden;
+  width: 100%;
+}
+#reset {
+  display: none;
+  margin-right: 48px;
+  margin-bottom: 12px;
+}
 
 /* Table styles */
 #ranked {

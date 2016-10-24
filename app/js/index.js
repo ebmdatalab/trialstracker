@@ -222,6 +222,23 @@ $(document).ready(function() {
     var title = getChartDescription(allData[orgName], name, orgName);
     d3.select('#title').html(title);
 
+    // Set both intro paragraphs to the same height, for tidiness.
+    var elementHeights = $('p.legend').map(function() {
+      return $(this).height();
+    }).get();
+    var maxHeight = Math.max.apply(null, elementHeights);
+    $('p.legend').height(maxHeight);
+
+    var $reset = $('#reset');
+    if (orgName === '') {
+      $reset.hide();
+    } else {
+      $reset.show();
+    }
+    $reset.on('click', function(e) {
+      updateChart(allData, '');
+    });
+
     // Draw the stack layout.
     var layers = d3.layout.stack()(["submitted", "overdue"].map(function(k) {
       return data.map(function(d) {
