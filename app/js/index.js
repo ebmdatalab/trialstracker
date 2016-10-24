@@ -289,9 +289,11 @@ $(document).ready(function() {
     title += " eligible trials and <strong><span style='color: #ff4800'>";
     title +=  (orgName === '') ? " haven't " : "hasn't ";
     title += "published results for ";
-    title += data.overdue.toLocaleString() + ' trials</span></strong>. ';
+    title += data.overdue.toLocaleString() + ' trial';
+    title += (data.overdue > 1) ? 's' : '';
+    title += '</span></strong>. ';
     title += 'That means ' + (data.rate *100).toFixed(1) + '% of ';
-    title += (orgName === '') ? ' all their ' : ' its ';
+    title += (orgName === '') ? ' their ' : ' its ';
     title += 'trials are missing results. ';
     url = 'https://clinicaltrials.gov/ct2/results/displayOpt?';
     url += 'flds=a&flds=b&flds=f&flds=g&flds=s&flds=u&submit_fld_opt=on';
