@@ -96,8 +96,7 @@ $(document).ready(function() {
         "order": [[2, 'desc']],
         "columnDefs": [
           { "orderable": false, "targets": 0 },
-          { "orderable": false, "targets": 1 },
-          { "orderSequence": [ "desc", "asc" ], "targets": [ 2,3,4 ] }
+          { "orderSequence": [ "desc", "asc" ], "targets": [ 1,2,3,4 ] }
         ]
     });
     t.on('order.dt search.dt', function () {
