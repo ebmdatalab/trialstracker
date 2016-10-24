@@ -110,11 +110,6 @@ $(document).ready(function() {
     $(".top").on("click", function() {
       updateChart(data, $(this).data('value'));
     });
-    $(".reset").on("click", function(e) {
-      e.stopImmediatePropagation();
-      e.preventDefault();
-      updateChart(data, '');
-    });
 
     // Draw the graph.
     var hash = window.location.hash.substr(1);
@@ -123,6 +118,7 @@ $(document).ready(function() {
     } else {
       updateChart(data, '');
     }
+
   });
 
   function reshapeData(allData) {
@@ -308,3 +304,13 @@ $(document).ready(function() {
   }
 
 });
+
+// Scroll the table to the appropriate place.
+// Called asynchronously after Typekit font load.
+var scrollChart = function() {
+  var container = $('#ranked,div.dataTables_scrollBody');
+  var scrollTo = $('#ranked tr.row_selected');
+  if (scrollTo.length === 1) {
+    container.scrollTop(scrollTo.offset().top - container.offset().top);
+  }
+};

@@ -16,7 +16,11 @@
 <meta property="og:image" content="/css/img/cropped-favicon-192x192.png" />
 <meta property="og:description" content="Clinical trials should share results shortly after completing, or publish in a journal. But many organisations fail to report the results of clinical trials. Explore our data to see the universities, government bodies and pharmaceutical companies that aren't sharing their clinical trial results." />
 <script src="https://use.typekit.net/ngu2qrq.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<script>try{Typekit.load({ active: function() {
+  window.onload = function() {
+    scrollChart();
+  };
+}, async: true });}catch(e){}</script>
 <link rel="stylesheet" href="/css/bootstrap.min.css">
 <link rel="stylesheet" href="/css/dataTables.bootstrap.min.css" />
 <link rel="stylesheet" href="/css/index.css">
