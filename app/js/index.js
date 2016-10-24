@@ -296,7 +296,7 @@ $(document).ready(function() {
     title += (orgName === '') ? ' their ' : ' its ';
     title += 'trials are missing results. ';
     url = 'https://clinicaltrials.gov/ct2/results/displayOpt?';
-    url += 'flds=a&flds=b&flds=f&flds=g&flds=s&flds=u&submit_fld_opt=on';
+    url += 'flds=a&flds=b&flds=f&flds=c&flds=g&flds=s&flds=u&submit_fld_opt=on';
     url += '&recr=Completed&type=Intr&lead=' + name + '&lead_ex=Y&show_flds=Y';
     if (orgName !== '') {
       title += "See <a target='_blank' href='" + url + "'>all its ";
