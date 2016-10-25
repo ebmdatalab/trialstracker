@@ -286,7 +286,7 @@ $(document).ready(function() {
     title +=  (orgName === '') ? " haven't " : "hasn't ";
     title += "published results for ";
     title += data.overdue.toLocaleString() + ' trial';
-    title += (data.overdue > 1) ? 's' : '';
+    title += (data.overdue === 1) ? '' : 's';
     title += '</span></strong>. ';
     title += 'That means ' + (data.rate *100).toFixed(1) + '% of ';
     title += (orgName === '') ? ' their ' : ' its ';
