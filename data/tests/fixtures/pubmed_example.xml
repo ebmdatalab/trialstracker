@@ -1,0 +1,208 @@
+<PubmedArticle>
+<MedlineCitation Status="MEDLINE" Owner="NLM">
+<PMID Version="1">21835609</PMID>
+<DateCreated>
+<Year>2011</Year>
+<Month>10</Month>
+<Day>24</Day>
+</DateCreated>
+<DateCompleted>
+<Year>2011</Year>
+<Month>12</Month>
+<Day>05</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2011</Year>
+<Month>10</Month>
+<Day>24</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1879-0852</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>47</Volume>
+<Issue>16</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>European journal of cancer (Oxford, England : 1990)</Title>
+<ISOAbbreviation>Eur. J. Cancer</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Hospital volume and survival in oesophagectomy and gastrectomy for cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2408-14</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejca.2011.07.001</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">High volume upper gastrointestinal cancer hospitals demonstrate improved postoperative mortality rates, but the impact on survival is unclear. This population-based cohort study explores the effect of hospital volume on survival following upper gastrointestinal cancer surgery.</AbstractText>
+<AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">This study used a population-based cohort of 3866 patients who underwent surgery for oesophageal or gastric cancer between 1998 and 2008 with follow-up until December 2008.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Hospital volume ranged from 1 to 68 cases/year. Overall, 5-year survival was 27%. Increasing age and advanced stage of disease were independently correlated with shorter survival. High hospital volume was significantly and independently correlated with improved 30-day mortality postoperatively (P&lt;0.001), but not with survival beyond 30 days.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The correlation between hospital volume and improved 30-day mortality following oesophageal and gastric cancer surgery supports the centralisation of upper gastrointestinal cancer surgery services. The low survival in both high and low volume hospitals beyond 30 days highlights the need for increasing earlier diagnosis and optimising approaches to radical treatment.</AbstractText>
+<CopyrightInformation>Copyright © 2011 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Anderson</LastName>
+<ForeName>Oliver</ForeName>
+<Initials>O</Initials>
+<AffiliationInfo>
+<Affiliation>Imperial College London, Department of Surgery and Cancer, St. Mary's Hospital, London, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ni</LastName>
+<ForeName>Zhifang</ForeName>
+<Initials>Z</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Møller</LastName>
+<ForeName>Henrik</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Coupland</LastName>
+<ForeName>Victoria H</ForeName>
+<Initials>VH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Davies</LastName>
+<ForeName>Elizabeth A</ForeName>
+<Initials>EA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Allum</LastName>
+<ForeName>William H</ForeName>
+<Initials>WH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hanna</LastName>
+<ForeName>George B</ForeName>
+<Initials>GB</Initials>
+</Author>
+</AuthorList>
+<Language>ENG</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>Aug</Month>
+<Day>09</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Eur J Cancer</MedlineTA>
+<NlmUniqueID>9005373</NlmUniqueID>
+<ISSNLinking>0959-8049</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D015331" MajorTopicYN="N">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D004739" MajorTopicYN="N" Type="Geographic">England</DescriptorName>
+<QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D016629" MajorTopicYN="N">Esophagectomy</DescriptorName>
+<QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+<QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D005743" MajorTopicYN="N">Gastrectomy</DescriptorName>
+<QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+<QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D005770" MajorTopicYN="N">Gastrointestinal Neoplasms</DescriptorName>
+<QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+<QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D017052" MajorTopicYN="Y">Hospital Mortality</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D006761" MajorTopicYN="N">Hospitals</DescriptorName>
+<QualifierName UI="Q000706" MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D053208" MajorTopicYN="N">Kaplan-Meier Estimate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D012044" MajorTopicYN="N">Regression Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName UI="D016019" MajorTopicYN="N">Survival Analysis</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>2</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2011</Year>
+<Month>5</Month>
+<Day>16</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2011</Year>
+<Month>7</Month>
+<Day>7</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>8</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>8</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>13</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21835609</ArticleId>
+<ArticleId IdType="pii">S0959-8049(11)00497-7</ArticleId>
+<ArticleId IdType="doi">10.1016/j.ejca.2011.07.001</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

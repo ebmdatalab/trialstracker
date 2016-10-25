@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 21, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02009163</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SPD489-346</org_study_id>
+    <secondary_id>2012-004457-88</secondary_id>
+    <nct_id>NCT02009163</nct_id>
+  </id_info>
+  <brief_title>Evaluate the Maintenance of Efficacy of SPD489 in Adults Aged 18-55 Years With Moderate to Severe Binge Eating Disorder</brief_title>
+  <official_title>A Phase 3, Multicenter, Double-blind, Placebo-controlled, Randomized-withdrawal Study to Evaluate the Maintenance of Efficacy of SPD489 in Adults Aged 18-55 Years With Moderate to Severe Binge Eating Disorder</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shire</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shire</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate maintenance of efficacy based on time to relapse between SPD489 (50 or 70mg) and
+      placebo, as measured by the number of binge days (defined as days during which at least 1
+      binge episode occurs) per week as assessed by clinical interview based on subject diary and
+      Clinical Global Impression - Severity (CGI-S) scores for patients who responded to SPD489 by
+      the end of the Open-label Treatment Phase.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2014</start_date>
+  <completion_date type="Actual">April 2015</completion_date>
+  <primary_completion_date type="Actual">March 2015</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Time to Relapse From Date of Randomization to Endpoint of The Randomized-withdrawal Period</measure>
+    <time_frame>Visit 21 (26 weeks after randomization [Week 38] or Early Termination)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Relapse status was assessed during the double-blind treatment phase and was defined as having 2 or more binge days per week for 2 consecutive weeks (14 consecutive days) prior to any visit and having an increase in Clinical Global Impressions-Severity (CGI-S) score of 2 or more points compared to the randomized-withdrawal baseline (date of relapse - date of randomization). Binge eating information was captured via a self-report paper diary. The binge diary captured the number of binges per day, total hours per day spent binging, type of binge (at mealtime or at another time other than mealtime), and a description of the binge (amounts and types of foods). Binge frequency was reviewed by the clinician with the subject to confirm reported binge episodes per day. The CGI-S was performed to rate the severity of a subject's condition using a 7-point scale ranging from 1 (normal, not at all ill) to 7 (among the most extremely ill).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change From Randomized-Withdrawal Baseline in The Number of Binge- Eating Days Per Week During The Randomized-withdrawal Period</measure>
+    <time_frame>Randomized--withdrawal baseline (Visit 8; 12 weeks after start of open- label treatment [Week 12]), Visit 21 (26 weeks after randomization [Week 38])</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>A binge day was defined as days during which at least 1 binge episode occurred. As assessed by clinical interview based on subject binge diary. Binge eating information was captured via a self-report paper diary. The binge diary captured the number of binges per day, total hours per day spent binging, type of binge (at mealtime or at another time other than mealtime), and a description of the binge (amounts and types of foods). Binge frequency was reviewed by the clinician with the subject to confirm reported binge episodes per day. A negative change from Baseline indicates that binge-related behavior decreased. The randomized -withdrawal-baseline was defined as the weekly average number of binge days for the 14 days prior to the Randomization Visit (Visit 8).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of Participants Within Each Category of The Clinical Global Impression-Severity of Illness (CGI-S) Scale at Endpoint of The Randomized-withdrawal Period</measure>
+    <time_frame>Visit 21 (26 weeks after randomization [Week 38] or Early Termination)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The CGI-S permits a global evaluation of a subject's condition and severity of symptoms. The CGI-S was performed to rate the severity of a subject's condition based on a 7-point scale ranging from 1 (normal, not at all ill) to 7 (among the most extremely ill).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Randomized-Withdrawal Baseline in The Total Score of The Yale-Brown Obsessive Compulsive Scale Modified for Binge Eating (Y-BOCS-BE) During The Randomized-withdrawal Period</measure>
+    <time_frame>Randomized-withdrawal baseline (Visit 8; 12 weeks after start of open-label treatment [Week 12]), Visit 21 (26 weeks after randomization [Week 38])</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The Y-BOCS-BE measures the obsession of binge eating thoughts and compulsiveness of binge eating behaviors. The scale is a clinician rated, 10-item scale, each item rated from 0 (no symptoms) to 4 (extreme symptoms). The scale includes questions regarding the amount of time spent on obsessions, impairment or distress experienced, and resistance and control over these thoughts. The same types of questions were asked about compulsions (ie, time spent, interference, etc.).Total scores range from 0 to 40. A total score of 0-7 is sub-clinical, 8-15 is mild, 16-23 is moderate, 24-31 is severe, and 32-40 is extreme. A decrease from baseline in Y-BOCS-BE Total Score represents an improvement in obsession with binge-eating thoughts or compulsiveness of binge-eating behaviors.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of Participants Within Each Category of The EuroQuol Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) For Mobility at Endpoint of The Open-label Period</measure>
+    <time_frame>Visit 8 (12 weeks after start of open-label treatment [Week 12] or Early Termination)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The EuroQoL Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) is a health-related quality of life (QoL) measure that assesses mobility, self-care, usual activities, pain/discomfort, and anxiety/depression as well as current overall health. It consists of a 5-item descriptive system that measures 5 dimensions of health, including mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. Each dimension is represented by a single item with 5 levels of responses, from poor health to good health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of Participants Within Each Category of The EuroQuol Group 5--Dimension 5--Level Self--Report Questionnaire (EQ--5D--5L) For Mobility at Endpoint of The Randomized-withdrawal Period</measure>
+    <time_frame>Visit 21 (26 weeks after randomization [Week 38] or Early Termination)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The EuroQoL Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) is a health-related quality of life (QoL) measure that assesses mobility, self-care, usual activities, pain/discomfort, and anxiety/depression as well as current overall health. It consists of a 5-item descriptive system that measures 5 dimensions of health, including mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. Each dimension is represented by a single item with 5 levels of responses, from poor health to good health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of Participants Within Each Category of The EuroQuol Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) For Self Care at Endpoint of The Open-label Period</measure>
+    <time_frame>Visit 8 (12 weeks after start of open-label treatment [Week 12] or Early Termination)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The EuroQoL Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) is a health-related quality of life (QoL) measure that assesses mobility, self-care, usual activities, pain/discomfort, and anxiety/depression as well as current overall health. It consists of a 5-item descriptive system that measures 5 dimensions of health, including mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. Each dimension is represented by a single item with 5 levels of responses, from poor health to good health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of Participants Within Each Category of The EuroQuol Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) For Self Care at Endpoint of The Randomized-withdrawal Period</measure>
+    <time_frame>Visit 21 (26 weeks after randomization [Week 38] or Early Termination)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The EuroQoL Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) is a health-related quality of life (QoL) measure that assesses mobility, self-care, usual activities, pain/discomfort, and anxiety/depression as well as current overall health. It consists of a 5-item descriptive system that measures 5 dimensions of health, including mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. Each dimension is represented by a single item with 5 levels of responses, from poor health to good health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of Participants Within Each Category of The EuroQuol Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) For Usual Activities at Endpoint of The Open-label Period</measure>
+    <time_frame>Visit 8 (12 weeks after start of open-label treatment [Week 12] or Early Termination)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The EuroQoL Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) is a health-related quality of life (QoL) measure that assesses mobility, self-care, usual activities, pain/discomfort, and anxiety/depression as well as current overall health. It consists of a 5-item descriptive system that measures 5 dimensions of health, including mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. Each dimension is represented by a single item with 5 levels of responses, from poor health to good health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of Participants Within Each Category of The EuroQuol Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) For Usual Activities at Endpoint of The Randomized-withdrawal Period</measure>
+    <time_frame>Visit 21 (26 weeks after randomization [Week 38] or Early Termination)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The EuroQoL Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) is a health-related quality of life (QoL) measure that assesses mobility, self-care, usual activities, pain/discomfort, and anxiety/depression as well as current overall health. It consists of a 5-item descriptive system that measures 5 dimensions of health, including mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. Each dimension is represented by a single item with 5 levels of responses, from poor health to good health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of Participants Within Each Category of The EuroQuol Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) For Pain and Discomfort at Endpoint of The Open-label Period</measure>
+    <time_frame>Visit 8 (12 weeks after start of open-label treatment [Week 12] or Early Termination)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The EuroQoL Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) is a health-related quality of life (QoL) measure that assesses mobility, self-care, usual activities, pain/discomfort, and anxiety/depression as well as current overall health. It consists of a 5-item descriptive system that measures 5 dimensions of health, including mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. Each dimension is represented by a single item with 5 levels of responses, from poor health to good health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of Participants Within Each Category of The EuroQuol Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) For Pain and Discomfort at Endpoint of The Randomized-withdrawal Period</measure>
+    <time_frame>Visit 21 (26 weeks after randomization [Week 38] or Early Termination)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The EuroQoL Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) is a health-related quality of life (QoL) measure that assesses mobility, self-care, usual activities, pain/discomfort, and anxiety/depression as well as current overall health. It consists of a 5-item descriptive system that measures 5 dimensions of health, including mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. Each dimension is represented by a single item with 5 levels of responses, from poor health to good health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of Participants Within Each Category of The EuroQuol Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) For Anxiety And Depression at Endpoint of The Open-label Period</measure>
+    <time_frame>Visit 8 (12 weeks after start of open-label treatment [Week 12] or Early Termination)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The EuroQoL Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) is a health-related quality of life (QoL) measure that assesses mobility, self-care, usual activities, pain/discomfort, and anxiety/depression as well as current overall health. It consists of a 5-item descriptive system that measures 5 dimensions of health, including mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. Each dimension is represented by a single item with 5 levels of responses, from poor health to good health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of Participants Within Each Category of The EuroQuol Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) For Anxiety And Depression at Endpoint of The Randomized-withdrawal Period</measure>
+    <time_frame>Visit 21 (26 weeks after randomization [Week 38] or Early Termination)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The EuroQoL Group 5-Dimension 5-Level Self-Report Questionnaire (EQ-5D-5L) is a health-related quality of life (QoL) measure that assesses mobility, self-care, usual activities, pain/discomfort, and anxiety/depression as well as current overall health. It consists of a 5-item descriptive system that measures 5 dimensions of health, including mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. Each dimension is represented by a single item with 5 levels of responses, from poor health to good health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With a Positive Response on The Columbia Suicide Severity Rating Scale (C-SSRS) at Endpoint of The Open-label Period</measure>
+    <time_frame>Visit 8 (12 weeks after start of open-label treatment [Week 12])</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The C-SSRS is a semistructured interview that captures the occurrence, severity, and frequency of suicide-related thoughts and behaviors. The interview includes definitions and suggested questions to solicit the type of information needed to determine if a suicide-related thought or behaviour occurred. The interview was initiated with 5 (yes/no) questions, presented in ascending order of severity, about suicidal ideation. The most severe type of ideation was rated for frequency, duration, controllability, deterrents, and reason. If the answer to the first 2 ideation questions was &quot;yes,&quot; the clinician asked questions 3-5. Active suicidal ideation included any participant who answered &quot;yes&quot; to questions 2-5. If the answers to ideation questions 1 and 2 were &quot;No,&quot; then the clinician proceeded to 5 (yes/no) questions that addressed suicidal behavior, which was categorized as actual attempt, interrupted attempt, aborted attempt, preparatory acts or behaviors, and completed suicide.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With a Positive Response on The Columbia Suicide Severity Rating Scale (C-SSRS) at Endpoint of The Randomized-withdrawal Period</measure>
+    <time_frame>Visit 21 (26 weeks after randomization [Week 38] or Early Termination)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The C-SSRS is a semistructured interview that captures the occurrence, severity, and frequency of suicide-related thoughts and behaviors. The interview includes definitions and suggested questions to solicit the type of information needed to determine if a suicide-related thought or behaviour occurred. The interview was initiated with 5 (yes/no) questions, presented in ascending order of severity, about suicidal ideation. The most severe type of ideation was rated for frequency, duration, controllability, deterrents, and reason. If the answer to the first 2 ideation questions was &quot;yes,&quot; the clinician asked questions 3-5. Active suicidal ideation included any participant who answered &quot;yes&quot; to questions 2-5. If the answers to ideation questions 1 and 2 were &quot;No,&quot; then the clinician proceeded to 5 (yes/no) questions that addressed suicidal behavior, which was categorized as actual attempt, interrupted attempt, aborted attempt, preparatory acts or behaviors, and completed suicide.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total Scores For The Amphetamine Cessation Symptom Assessment (ACSA) Scale During Follow-up</measure>
+    <time_frame>Visit 21 (26 weeks after randomization [Week 38] or Early Termination) and Visit 22 (7 days post last dose)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The ACSA was used in this study to assess potential withdrawal symptoms associated with chronic use of SPD489. The ACSA is a self-completed scale used to assess withdrawal symptoms. The scale has 16 symptom items rated on a 5-point scale ranging from 0 (not at all) to 4 (extremely). The ACSA total score ranges from 0-64, where a higher score indicates greater withdrawal symptom severity.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">418</enrollment>
+  <condition>Binge Eating Disorder</condition>
+  <arm_group>
+    <arm_group_label>Lisdexamfetamine dimesylate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Administer one capsule (50 or 70 mg) orally daily at approximately 7:00 AM.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Administer one capsule orally daily at approximately 7:00 AM.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lisdexamfetamine dimesylate</intervention_name>
+    <description>SDP489 30, 50, or 70mg capsule once per day (open-label and double-blind periods)</description>
+    <arm_group_label>Lisdexamfetamine dimesylate</arm_group_label>
+    <other_name>SPD489</other_name>
+    <other_name>LDX</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo capsule once per day (double-blind period)</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Subject is between 18-55 years of age, inclusive.
+
+          2. Subject meets the following criteria for a diagnosis of BED:
+
+               -  Recurrent episodes of binge eating. An episode of binge eating is characterized
+                  by both of the following: eating, in a discrete period of time (eg, within a
+                  2-hour period) an amount of food that is definitely larger than most people
+                  would eat in a similar period of time under similar conditions, and a sense of
+                  lack of control over the eating (eg, a feeling that one cannot stop eating or
+                  control what or how much one is eating).
+
+               -  The binge eating episodes are associated with at least 3 of the following:
+                  eating much more rapidly than normal; eating until uncomfortably full; eating
+                  large amounts of food when not feeling physically hungry; eating alone because
+                  of being embarrassed by how much one is eating; feeling disgusted with oneself,
+                  depressed, or feeling very guilty after overeating.
+
+               -  Marked distress regarding binge eating.
+
+               -  The binge eating occurs, on average, at least 2 days a week for 6 months.
+
+               -  The episodes of binge eating do not occur exclusively during the course of
+                  bulimia nervosa or anorexia nervosa.
+
+          3. Subject is consistently able to swallow a capsule.
+
+        Exclusion Criteria:
+
+          1. Subject has current diagnosis of bulimia nervosa or anorexia nervosa.
+
+          2. Subject is receiving psychotherapy or weight loss support within the past 3 months.
+
+          3. Subject has used psychostimulants to facilitate fasting or dieting within the past 6
+             months.
+
+          4. Subject has known history of symptomatic cardiovascular disease, advanced
+             arteriosclerosis, structural cardiac abnormality, cardiomyopathy, serious heart
+             rhythm abnormalities, coronary artery disease.
+
+          5. Subject has abnormal thyroid function.
+
+          6. Subject initiated treatment with a lipid lowering medication within the past 3
+             months.
+
+          7. Subject has a history of moderate or severe hypertension.
+
+          8. Subject has a recent history (within the past 6 months) of suspected substance abuse
+             or dependence disorder.
+
+          9. Subject has glaucoma.
+
+         10. Subject is female and pregnant or nursing.
+
+         11. Subjects who have had bariatric surgery, lap bands, duodenal stents, or other
+             procedures for weight loss.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James I Hudson, MD, ScD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mclean Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Gulfcoast Clinical Research Center</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Innovative Clinical Research, Inc</name>
+      <address>
+        <city>Lauderhill</city>
+        <state>Florida</state>
+        <zip>33319</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Compass Research LLC North Clinic</name>
+      <address>
+        <city>Leesburg</city>
+        <state>Florida</state>
+        <zip>34748</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Clinical Research Center, LLC</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Scientific Clinical Research, Inc</name>
+      <address>
+        <city>North Miami</city>
+        <state>Florida</state>
+        <zip>33161</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Neuroscience Solutions, Inc</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Research Associates</name>
+      <address>
+        <city>South Miami</city>
+        <state>Florida</state>
+        <zip>33143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NeuroTrials Research, Inc</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30342</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Capstone Clinical Research</name>
+      <address>
+        <city>Libertyville</city>
+        <state>Illinois</state>
+        <zip>60048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Goldpoint Clinical Research</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Trials Technology, Inc</name>
+      <address>
+        <city>Prairie Village</city>
+        <state>Kansas</state>
+        <zip>66206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cypress Medical Research Center</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Louisiana Research Associates, Inc</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>McLean Hospital</name>
+      <address>
+        <city>Belmont</city>
+        <state>Massachusetts</state>
+        <zip>02478</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Clinical Trials</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02131</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Adams Clinical Trials, LLC</name>
+      <address>
+        <city>Watertown</city>
+        <state>Massachusetts</state>
+        <zip>02472</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rochester Center for Behavioral Medicine</name>
+      <address>
+        <city>Rochester Hills</city>
+        <state>Michigan</state>
+        <zip>48307</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HBSA-Pacific Institute for Research &amp; Evaluation</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brooklyn Medical Institute</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Research Associates, LLC</name>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <zip>27612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Patient Priority Clinical Sites, LLC</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Community Research</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45227</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Midwest Clinical Research Center</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45417</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Linder Center of Hope</name>
+      <address>
+        <city>Mason</city>
+        <state>Ohio</state>
+        <zip>45040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Center for Clinical Investigations, Inc (OCCI, Inc)</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Center for Clinical Investigations, Inc (OCCI, Inc)</name>
+      <address>
+        <city>Salem</city>
+        <state>Oregon</state>
+        <zip>97301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lehigh Center for Clinical Research</name>
+      <address>
+        <city>Allentown</city>
+        <state>Pennsylvania</state>
+        <zip>18104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Omega Medical Research</name>
+      <address>
+        <city>Warwick</city>
+        <state>Rhode Island</state>
+        <zip>02886</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Radiant Research, Inc</name>
+      <address>
+        <city>Anderson</city>
+        <state>South Carolina</state>
+        <zip>29621</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Radiant Research, Inc</name>
+      <address>
+        <city>Greer</city>
+        <state>South Carolina</state>
+        <zip>29650</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Coastal Carolina Research Center</name>
+      <address>
+        <city>Mount Pleasant</city>
+        <state>South Carolina</state>
+        <zip>29464</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Neuroscience Solution, Inc</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>FutureSearch Clinical Trials, LP</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78731</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>FutureSearch Trials of Dallas, LP</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Center for Drug Development, Inc</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Across America</name>
+      <address>
+        <city>Plano</city>
+        <state>Texas</state>
+        <zip>75093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Radiant Research, Inc</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwest Clinical Research Center</name>
+      <address>
+        <city>Bellevue</city>
+        <state>Washington</state>
+        <zip>98007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Summit Research Network (Seattle) LLC</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Anxiety and Mood Disorder Center</name>
+      <address>
+        <city>Mississauga</city>
+        <state>Ontario</state>
+        <zip>L5&lt; 4N4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Manna Research</name>
+      <address>
+        <city>Pointe Claire</city>
+        <state>Quebec</state>
+        <zip>H9R 4S3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinische Forschung Berlin-Mitte GmbH</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10117</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>EMOVIS GmbH - Klinische Forschung</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10629</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinische Forschung Dresden GmbH</name>
+      <address>
+        <city>Dresden</city>
+        <zip>01069</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinische Forschung Hannover-Mitte GmbH</name>
+      <address>
+        <city>Hannover</city>
+        <zip>30159</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Forschung Schwerin GmbH, Friedrichstrasse 1</name>
+      <address>
+        <city>Schwerin</city>
+        <zip>19055</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Studienzentrum Nordwest</name>
+      <address>
+        <city>Westerstede</city>
+        <zip>26655</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de la Santa Creu I Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08025</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Infanta Leonor</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28031</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital del Henares</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28822</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lakarmottagningen Ekdahl &amp; Kronberg</name>
+      <address>
+        <city>Malmo</city>
+        <zip>211 52</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stockholm Center for Eating Disorders</name>
+      <address>
+        <city>Stockhold</city>
+        <zip>118 50</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sofiahemmet</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>114 86</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>Germany</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2016</verification_date>
+  <lastchanged_date>March 2, 2016</lastchanged_date>
+  <firstreceived_date>December 6, 2013</firstreceived_date>
+  <firstreceived_results_date>January 28, 2016</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Feeding and Eating Disorders</mesh_term>
+    <mesh_term>Bulimia</mesh_term>
+    <mesh_term>Binge-Eating Disorder</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lisdexamfetamine Dimesylate</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

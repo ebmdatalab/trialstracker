@@ -1,0 +1,58 @@
+
+{
+    "header": {
+        "type": "esearch",
+        "version": "0.3"
+    },
+    "esearchresult": {
+        "count": "18",
+        "retmax": "18",
+        "retstart": "0",
+        "idlist": [
+            "26525271",
+            "26433116",
+            "25975474",
+            "25886727",
+            "25844993",
+            "25789868",
+            "25756419",
+            "25365723",
+            "25270900",
+            "25267568",
+            "25078879",
+            "24237006",
+            "24188226",
+            "24044764",
+            "23688929",
+            "23499577",
+            "22520518",
+            "21458906"
+        ],
+        "translationset": [
+        ],
+        "translationstack": [
+            {
+                "term": "NCT01020916[si]",
+                "field": "si",
+                "count": "18",
+                "explode": "N"
+            },
+            {
+                "term": "\"2010-01-01\"[PDAT]",
+                "field": "PDAT",
+                "count": "0",
+                "explode": "N"
+            },
+            {
+                "term": "\"3000\"[PDAT]",
+                "field": "PDAT",
+                "count": "0",
+                "explode": "N"
+            },
+            "RANGE",
+            "GROUP",
+            "AND"
+        ],
+        "querytranslation": "NCT01020916[si] AND (\"2010-01-01\"[PDAT] : \"3000\"[PDAT])"
+    }
+}

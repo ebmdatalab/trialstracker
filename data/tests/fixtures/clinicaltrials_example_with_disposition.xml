@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 21, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00144014</url>
+  </required_header>
+  <id_info>
+    <org_study_id>V10153-2S-01</org_study_id>
+    <nct_id>NCT00144014</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy Study in Acute Ischaemic Stroke</brief_title>
+  <acronym>VASST</acronym>
+  <official_title>A Phase II, Multi-centre, Two-part Study to Evaluate the Safety and Efficacy of Study Drug in Acute Ischaemic Stroke.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vernalis (R&amp;D) Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Vernalis (R&amp;D) Ltd</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>Canada: Health Canada</authority>
+    <authority>Denmark: Danish Medicines Agency</authority>
+    <authority>Hungary: National Institute of Pharmacy</authority>
+    <authority>Czech Republic: State Institute for Drug Control</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A Phase II study to evaluate the safety and efficacy of five dose levels of study drug in
+      acute ischaemic stroke
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      An open label, dose escalation study where patients with acute ischaemic stroke will receive
+      a single intravenous dose of study drug. There will be five dose levels with groups of 10
+      patients in each. Escalation to higher doses will occur following review of safety data from
+      the previous dose.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 2005</start_date>
+  <completion_date type="Actual">March 2009</completion_date>
+  <primary_completion_date type="Actual">November 2008</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>To establish the safety of five dose levels (1.0, 2.5, 5, 7.5 and 10 mg/kg)of V10153 in patients with acute ischaemic stroke.</measure>
+    <time_frame>Ongoing</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To compare recanalisation rates across dose levels.</measure>
+    <time_frame>Ongoing</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare clinical outcome between treatments by NIHSS, Modified Rankin Scale and Barthel Index.</measure>
+    <time_frame>Post-study completion</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Actual">49</enrollment>
+  <condition>Stroke</condition>
+  <arm_group>
+    <arm_group_label>V10153, 1.0 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single acute intravenous bolus dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>V10153, 2.5 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single acute intravenous bolus dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>V10153, 5.0 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single acute intravenous bolus dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>V10153, 7.5 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single acute intravenous bolus dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>V10153, 10 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single acute intravenous bolus dose</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>V10153</intervention_name>
+    <description>Single acute intravenous bolus dose up to 10 mg/kg</description>
+    <arm_group_label>V10153, 1.0 mg/kg</arm_group_label>
+    <arm_group_label>V10153, 2.5 mg/kg</arm_group_label>
+    <arm_group_label>V10153, 5.0 mg/kg</arm_group_label>
+    <arm_group_label>V10153, 7.5 mg/kg</arm_group_label>
+    <arm_group_label>V10153, 10 mg/kg</arm_group_label>
+    <other_name>Code Names: V10153, BB-10153</other_name>
+    <other_name>CAS Registry Number: 931101-84-7</other_name>
+    <other_name>Proposed INN: Troplasminogen alfa</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Summary of Inclusion Criteria:
+
+          1. Onset of new neurological signs of stroke within 3 to 9 hours of the time to
+             initiation of treatment
+
+          2. Aged 18 and above
+
+          3. Provide consent
+
+          4. Cerebral CT scan to show findings of early ischaemic changes consistent with the
+             clinical diagnosis and an ASPECT score of between 5 and 10 inclusive.
+
+          5. NIHSS score greater than 5 or less than or equal to 20.
+
+        Summary of Exclusion Criteria:
+
+          1. Coma
+
+          2. Stroke with unknown time of onset
+
+          3. Minor stroke symptoms and sings (&lt;6 points on the NIHSS) which are rapidly improving
+             by the time of randomisation.
+
+          4. Major stroke symptoms and signs (&gt;20 on the NIHSS)
+
+          5. History of stroke in previous 6 weeks
+
+          6. History of brain tumours
+
+          7. CT scan results in an ASPECT score of &lt;5
+
+          8. Haemorrhagic risk
+
+          9. Abnormal laboratory values
+
+         10. Positive urine pregnancy test, lactation or parturition within previous 30 days.
+
+         11. Weight &gt;135 kg
+
+         12. Uncontrolled hypertension.
+
+         13. Raised blood glucose
+
+         14. History of or current serious illness
+
+         15. Participation in another clinical trial within 4 weeks of drug administration
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael Hill</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Foothills Hosptial</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stroke Centre, Mayo Clinic</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA Stroke Network</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Medical Group of Diablo Valley</name>
+      <address>
+        <city>Walnut Creek</city>
+        <state>California</state>
+        <zip>94598</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bethesda Memorial Hospital</name>
+      <address>
+        <city>Boynton Beach</city>
+        <state>Florida</state>
+        <zip>33435</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bradenton Research Centre</name>
+      <address>
+        <city>Bradenton</city>
+        <state>Florida</state>
+        <zip>34205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ocala Neurodiagnostic Centre</name>
+      <address>
+        <city>Ocala</city>
+        <state>Florida</state>
+        <zip>34470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Hospital of Neuroscience Institute</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tallahassee Memorial Hospital</name>
+      <address>
+        <city>Tallahassee</city>
+        <state>Florida</state>
+        <zip>32308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Neurovascular Institue Stroke Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vascular Neurology, Loyola University Medical Center</name>
+      <address>
+        <city>Maywood</city>
+        <state>Illinois</state>
+        <zip>60153</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Advanced Medicine, Jewish Hospital</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Louisville Hospital</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UMAS Memorial Medical Centre</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sunrise Hospital and Medical Centre</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washoe Stroke Center</name>
+      <address>
+        <city>Reno</city>
+        <state>Nevada</state>
+        <zip>89502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stroke Centre, Neurological Institute, Carolinas Medical Centre</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Forsyth Medical Center</name>
+      <address>
+        <city>Winston Salem</city>
+        <state>North Carolina</state>
+        <zip>27103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lancaster General Hospital</name>
+      <address>
+        <city>Lancaster</city>
+        <state>Pennsylvania</state>
+        <zip>17602</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania Medical Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University South Carolina Hospitals and Clinics</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Erlanger Health System</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurological Institute, The Methodist Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Division of Neuro-Ophthalmology, Virginia Commonwealth University</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23298-0599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gordon &amp; Leslie Diamond Health Care Centre</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 1M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre for Stroke Research, Vancouver Island Health Research Centre</name>
+      <address>
+        <city>Victoria</city>
+        <state>British Columbia</state>
+        <zip>V8R 1J8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>71 King Street West</name>
+      <address>
+        <city>Mississauga</city>
+        <state>Ontario</state>
+        <zip>L5B 4A2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal University Hospital</name>
+      <address>
+        <city>Saskatoon</city>
+        <state>Saskatchewan</state>
+        <zip>S7K 0L4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Charles LeMoyne</name>
+      <address>
+        <city>Quebec</city>
+        <zip>J4V 2H1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2016</verification_date>
+  <lastchanged_date>May 4, 2016</lastchanged_date>
+  <firstreceived_date>September 1, 2005</firstreceived_date>
+  <firstreceived_results_disposition_date>May 4, 2016</firstreceived_results_disposition_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Acute</keyword>
+  <keyword>Ischaemic</keyword>
+  <keyword>Stroke</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Stroke</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted, but a results disposition has been submitted -->
+</clinical_study>
