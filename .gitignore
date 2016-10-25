@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
 .venv/
 data/search_result/
+app/js/node_modules/
+app/js/main.js
+

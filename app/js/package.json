@@ -1,0 +1,30 @@
+{
+  "name": "trialstracker",
+  "version": "1.0.0",
+  "description": "A simple app to track major trial sponsors with unreported trials on ClinicalTrials.gov",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "watch": "watchify index.js -o main.js --debug --verbose",
+    "build": "browserify index.js | uglifyjs > main.js"
+  },
+  "author": "Anna Powell-Smith",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ebmdatalab/trialstracker"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^3.5.17",
+    "d3-tip": "^0.6.7",
+    "datatables.net": "^1.10.12",
+    "datatables.net-bs": "^1.10.12",
+    "react": "^15.3.2"
+  },
+  "devDependencies": {
+    "browserify": "^9.0.8",
+    "mocha": "^2.2.5",
+    "uglifyjs": "^2.4.10",
+    "watchify": "^3.2.1"
+  }
+}
