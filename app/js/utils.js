@@ -8,8 +8,8 @@ var getChartDescription = function (data, name, orgName) {
     title += data.overdue.toLocaleString() + ' trial';
     title += (data.overdue === 1) ? '' : 's';
     title += '</span></strong>. ';
-    title += 'That means ' + (data.rate *100).toFixed(1) + '% of ';
-    title += (orgName === '') ? ' their ' : ' its ';
+    title += 'That means ' + (data.rate * 100).toFixed(1) + '% of ';
+    title += (orgName === '') ? 'their ' : 'its ';
     title += 'trials are missing results. ';
     url = 'https://clinicaltrials.gov/ct2/results/displayOpt?';
     url += 'flds=a&flds=b&flds=f&flds=c&flds=g&flds=s&flds=u&submit_fld_opt=on';

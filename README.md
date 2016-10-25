@@ -24,8 +24,9 @@ Update data
 
 First download raw data from ClinicalTrials.gov (instructions are in the Jupyter notebook). Then run the notebook, toggling `REGENERATE_SUMMARY` and `REGENERATE_PUBMED_LINKS` to regenerate the data from scratch. Running this notebook will automatically update the data used in the app.
 
+To rebuild the JavaScript, run `npm run watch` (development) and `npm run build` (production).
+
 Run tests
 ---------
 
-Test the data utility functions, run in the `data` directory: `nosetests tests/test_utils.py`
-Test the JavaScript: TBA.
+Toest the data utility functions, run in the `data` directory: `nosetests tests/test_utils.py`. To test the JavaScript: `npm run test`.

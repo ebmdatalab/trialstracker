@@ -23,7 +23,8 @@
   },
   "devDependencies": {
     "browserify": "^9.0.8",
-    "mocha": "^2.2.5",
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
     "uglifyjs": "^2.4.10",
     "watchify": "^3.2.1"
   }
