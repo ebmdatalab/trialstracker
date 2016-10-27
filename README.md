@@ -19,17 +19,11 @@ We make no guarantees that the data is current. Please refer to GitHub commit hi
 
  All our code is available under the MIT licence. If you reuse any of our work, please cite us as follows: `Powell-Smith, A. and Goldacre, B.: The TrialsTracker: automated ongoing monitoring of failure to share clinical trial results by all major companies and research institutions, 2016`.
 
-Update data
------------
+Update the app
+--------------
 
-First download raw data from ClinicalTrials.gov (instructions are in the Jupyter notebook). Then run the notebook, toggling `REGENERATE_SUMMARY` and `REGENERATE_PUBMED_LINKS` to regenerate the data from scratch. Running this notebook will automatically update the data used in the app.
-
-To rebuild the JavaScript, run `npm run watch` (development) and `npm run build` (production).
-
-Run tests
----------
-
-Toest the data utility functions, run in the `data` directory: `nosetests tests/test_utils.py`. To test the JavaScript: `npm run test`.
+- To update the data: first download raw data from ClinicalTrials.gov (instructions are in the Jupyter notebook). Then run the notebook, toggling `REGENERATE_SUMMARY` and `REGENERATE_PUBMED_LINKS` to regenerate the data from scratch. Running this notebook will automatically update the data used in the app.
+- To work on the app: run tests with (in the `data` directory): `nosetests tests/test_utils.py`. To test the JavaScript: `npm run test`. To build the JavaScript: `npm run watch` (development) and `npm run build` (production).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.163522.svg)](https://doi.org/10.5281/zenodo.163522)
 
