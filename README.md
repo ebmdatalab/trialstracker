@@ -17,7 +17,7 @@ Get the data
 
 We make no guarantees that the data is current. Please refer to GitHub commit history to check when data was last processed. For up to date data, please refer to [ClinicalTrials.gov](https://clinicaltrials.gov).
 
- All our code is available under the MIT licence. If you reuse any of our work, please cite us as follows: `Powell-Smith, A. and Goldacre, B.: The TrialsTracker: ongoing monitoring of failure to share clinical trial results by all major companies and research institutions, 2016`.
+ All our code is available under the MIT licence. If you reuse any of our work, please cite us as follows: `Powell-Smith, A. and Goldacre, B.: The TrialsTracker: automated ongoing monitoring of failure to share clinical trial results by all major companies and research institutions, 2016`.
 
 Update data
 -----------
