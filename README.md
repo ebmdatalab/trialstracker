@@ -30,3 +30,6 @@ Run tests
 ---------
 
 Toest the data utility functions, run in the `data` directory: `nosetests tests/test_utils.py`. To test the JavaScript: `npm run test`.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.163522.svg)](https://doi.org/10.5281/zenodo.163522)
+
