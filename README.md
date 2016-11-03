@@ -11,13 +11,13 @@ The application is in two parts:
 Get the data
 ------------
 
- The `data/all.csv` file contains our full results for all trials.
+The `data/all.csv` file contains our full results for all trials.
 
 [ClinicalTrials.gov](https://clinicaltrials.gov) is the source of the data used in this application. Data is used according to [ClinicalTrials.gov's standard terms of use](https://clinicaltrials.gov/ct2/about-site/terms-conditions#Use).
 
 We make no guarantees that the data is current. Please refer to GitHub commit history to check when data was last processed. For up to date data, please refer to [ClinicalTrials.gov](https://clinicaltrials.gov).
 
- All our code is available under the MIT licence. If you reuse any of our work, please cite us as follows: `Powell-Smith, A. and Goldacre, B.: The TrialsTracker: automated ongoing monitoring of failure to share clinical trial results by all major companies and research institutions, 2016`.
+All our code is available under the MIT licence. If you reuse any of our work, please cite us as follows: *Powell-Smith A and Goldacre B. The TrialsTracker: Automated ongoing monitoring of failure to share clinical trial results by all major companies and research institutions. F1000Research 2016, 5:2629 (doi: 10.12688/f1000research.10010.1)*.
 
 Update the app
 --------------
