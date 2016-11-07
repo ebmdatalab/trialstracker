@@ -11,7 +11,7 @@ The application is in two parts:
 Get the data
 ------------
 
-The `data/all.csv` file contains our full results for all trials.
+The `data/all.csv` file contains our full results for all trials. This is a huge file: the easiest way to obtain the raw version may be to [download the zipfile of the whole repo](https://github.com/ebmdatalab/trialstracker/zipball/master). The [Jupyter notebook](https://github.com/ebmdatalab/trialstracker/blob/master/data/Examine%20unreported%20trials%20on%20ClinicalTrials.gov.ipynb) shows how we obtain and classify data.
 
 [ClinicalTrials.gov](https://clinicaltrials.gov) is the source of the data used in this application. Data is used according to [ClinicalTrials.gov's standard terms of use](https://clinicaltrials.gov/ct2/about-site/terms-conditions#Use).
 
