@@ -48,9 +48,17 @@ def normalise_phase(x):
     And set multi-phase trials to the earlier phase, e.g.
     phase 1/2 trials to 1.
     '''
-    if pd.isnull(x):
-        x = 5
-    return int(str(x).split('/')[0])
+    mapping = {
+        'Early 1': 1,
+        '1/2': 1,
+        '2/3': 2,
+        '1': 1,
+        '2': 2,
+        '3': 3,
+        '4': 4,
+        'N/A': 5
+    }
+    return mapping[x]
 
 
 def extract_title_from_pubmed_data(text):
