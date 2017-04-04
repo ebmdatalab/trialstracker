@@ -25,7 +25,10 @@ Update the app
 --------------
 
 - To update the data: first download raw data from ClinicalTrials.gov (instructions are in the Jupyter notebook). Then run the notebook, toggling `REGENERATE_SUMMARY` and `REGENERATE_PUBMED_LINKS` to regenerate the data from scratch. Running this notebook will automatically update the data used in the app.
+- You can run the notebook from the command line with
+
+    `jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --execute Examine\ unreported\ trials\ on\ ClinicalTrials.gov.ipynb`
+
 - To work on the app: run tests with (in the `data` directory): `nosetests tests/test_utils.py`. To test the JavaScript: `npm run test`. To build the JavaScript: `npm run watch` (development) and `npm run build` (production).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.163522.svg)](https://doi.org/10.5281/zenodo.163522)
-
