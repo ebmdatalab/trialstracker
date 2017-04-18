@@ -1,10 +1,11 @@
-import time
 from collections import defaultdict
+from simplejson import JSONDecodeError
+import urllib3
 
 from pyquery import PyQuery as pq
-import pandas as pd
-import requests
 from xml.etree import ElementTree
+import backoff
+import requests
 
 
 def extract_ctgov_xml(text):
@@ -106,16 +107,13 @@ def is_study_protocol(title):
     return (title and 'study protocol' in title.lower())
 
 
+@backoff.on_exception(backoff.expo,
+                      (urllib3.exceptions.HTTPError,
+                       ValueError,
+                       requests.exceptions.RequestException),
+                      max_tries=10)
 def get_response(url):
-    got_response = False
-    while not got_response:
-        try:
-            resp = requests.get(url)
-            got_response = True
-        except ValueError, requests.ConnectionError:
-            print 'Error, retrying...', url
-            time.sleep(10)
-    return resp
+    return requests.get(url)
 
 
 def get_pubmed_title(pmid):
@@ -126,6 +124,7 @@ def get_pubmed_title(pmid):
     url += 'db=pubmed&rettype=abstract&id=%s' % pmid
     resp = get_response(url)
     title = extract_title_from_pubmed_data(resp.content)
+    return title
 
 
 def get_pubmed_linked_articles(nct_id, completion_date, query_type):
@@ -135,7 +134,12 @@ def get_pubmed_linked_articles(nct_id, completion_date, query_type):
     url = get_pubmed_linked_articles_url(nct_id, completion_date,
                                          query_type)
     resp = get_response(url)
-    data = resp.json()
+    try:
+        data = resp.json()
+    except JSONDecodeError as e:
+        extra_info = ".  Couldn't parse" + resp.text
+        e.args = (str(e.args[0]) + extra_info,), e.args[1:]
+        raise
     ids = extract_pubmed_ids_from_json(data)
     for id1 in ids[:]:
         title = get_pubmed_title(id1)
