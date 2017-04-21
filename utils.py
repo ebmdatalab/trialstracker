@@ -107,15 +107,16 @@ def is_study_protocol(title):
     return (title and 'study protocol' in title.lower())
 
 
-@backoff.on_exception(backoff.expo,
-                      (urllib3.exceptions.HTTPError,
-                       ValueError,
-                       requests.exceptions.RequestException),
-                      max_tries=10)
 def get_response(url):
     return requests.get(url)
 
 
+@backoff.on_exception(backoff.expo,
+                      (urllib3.exceptions.HTTPError,
+                       ValueError,
+                       JSONDecodeError,
+                       requests.exceptions.RequestException),
+                      max_tries=10)
 def get_pubmed_title(pmid):
     '''
     Retrieve the title of a PubMed article, from its PMID.
@@ -127,6 +128,12 @@ def get_pubmed_title(pmid):
     return title
 
 
+@backoff.on_exception(backoff.expo,
+                      (urllib3.exceptions.HTTPError,
+                       ValueError,
+                       JSONDecodeError,
+                       requests.exceptions.RequestException),
+                      max_tries=10)
 def get_pubmed_linked_articles(nct_id, completion_date, query_type):
     '''
     Given an NCT ID, search PubMed for related results articles.
@@ -134,12 +141,7 @@ def get_pubmed_linked_articles(nct_id, completion_date, query_type):
     url = get_pubmed_linked_articles_url(nct_id, completion_date,
                                          query_type)
     resp = get_response(url)
-    try:
-        data = resp.json()
-    except JSONDecodeError as e:
-        extra_info = ".  Couldn't parse" + resp.text
-        e.args = (str(e.args[0]) + extra_info,), e.args[1:]
-        raise
+    data = resp.json()
     ids = extract_pubmed_ids_from_json(data)
     for id1 in ids[:]:
         title = get_pubmed_title(id1)
