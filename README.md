@@ -29,6 +29,9 @@ Update the app
 
     `jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --execute Examine\ unreported\ trials\ on\ ClinicalTrials.gov.ipynb`
 
+    - If that executes successfully, it will create a new file with the extension `nbcovert.ipynb`; copy this over the input notebook and commit
+    - The notebook will create a number of files in `data/`; copy `data/completed.csv` to `app/data/`
+
 - To work on the app: run tests with (in the `data` directory): `nosetests tests/test_utils.py`. To test the JavaScript: `npm run test`. To build the JavaScript: `npm run watch` (development) and `npm run build` (production).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.163522.svg)](https://doi.org/10.5281/zenodo.163522)
