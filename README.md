@@ -32,6 +32,8 @@ Update the app
     - If that executes successfully, it will create a new file with the extension `nbcovert.ipynb`; copy this over the input notebook and commit
     - The notebook will create a number of files in `data/`; copy `data/completed.csv` to `app/data/`
     - Commit that; upload it to Webfaction (see `pass` for credentials)
+    - Change "last updated" text on home page
+    - Deploy by copying to Webfaction
     - Purge `https://trialstracker.ebmdatalab.net/data/completed.csv` in Cloudflare
 - To work on the app: run tests with (in the `data` directory): `nosetests tests/test_utils.py`. To test the JavaScript: `npm run test`. To build the JavaScript: `npm run watch` (development) and `npm run build` (production).
 
