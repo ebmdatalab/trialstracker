@@ -13,7 +13,7 @@ Get the data
 
 The `data/all.csv` file contains our full results for all trials. This is a huge file: the easiest way to obtain the raw version may be to [download the zipfile of the whole repo](https://github.com/ebmdatalab/trialstracker/zipball/master).
 
-The [Jupyter notebook](https://github.com/ebmdatalab/trialstracker/blob/master/data/Examine%20unreported%20trials%20on%20ClinicalTrials.gov.ipynb) has full details how we obtain and classify data ([as does our paper](http://f1000research.com/articles/5-2629)). In summary, if the `is_completed` column is `TRUE` then we regard the trial as eligible for our study (based on phase, completion date, study type, disposition etc) and if the `is_overdue` column is `TRUE` then we have not found linked results either on ClinicalTrials.gov or on PubMed.
+The [Jupyter notebook](https://github.com/ebmdatalab/trialstracker/blob/master/Examine%20unreported%20trials%20on%20ClinicalTrials.gov.ipynb) has full details how we obtain and classify data ([as does our paper](http://f1000research.com/articles/5-2629)). In summary, if the `is_completed` column is `TRUE` then we regard the trial as eligible for our study (based on phase, completion date, study type, disposition etc) and if the `is_overdue` column is `TRUE` then we have not found linked results either on ClinicalTrials.gov or on PubMed.
 
 [ClinicalTrials.gov](https://clinicaltrials.gov) is the source of the data used in this application. Data is used according to [ClinicalTrials.gov's standard terms of use](https://clinicaltrials.gov/ct2/about-site/terms-conditions#Use).
 
