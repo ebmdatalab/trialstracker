@@ -24,3 +24,14 @@ local$ git push dokku master
 ```bash
 $ dokku domains:add trialstracker trialstracker-dokku.ebmdatalab.net 
 ```
+
+### add datafile
+
+Generate your data file (outside the scope of this document), and then move it into place:
+
+```bash
+root@dokku$ mkdir -p /var/lib/dokku/data/storage/trialstracker/data/
+root@dokku$ chown -R www-data:dokku /var/lib/dokku/data/storage/trialstracker
+root@dokku$ dokku storage:mount thedatalab /var/lib/dokku/data/storage/trialstracker/data/:/usr/share/nginx/html/data/
+root@dokku$ cp completed.csv /var/lib/dokku/data/storage/trialstracker/data/
+```
