@@ -6,6 +6,7 @@ esbuild
     entryPoints: ["index.js"],
     bundle: true,
     outfile: "main.js",
+    format: "iife",
     plugins: [
       babel({
         filter: /.*/,
