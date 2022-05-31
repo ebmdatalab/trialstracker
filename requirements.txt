@@ -1,5 +1,5 @@
 cssselect==0.9.2
-lxml==4.6.3
+lxml==4.6.5
 openpyxl==2.4.0
 python-slugify
 pyquery
