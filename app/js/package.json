@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha",
     "watch": "watchify index.js -o main.js --debug --verbose",
-    "build": "browserify index.js | uglifyjs > main.js"
+    "build": "node esbuild.config.mjs"
   },
   "author": "Anna Powell-Smith",
   "repository": {
@@ -22,10 +22,13 @@
     "react": "^15.3.2"
   },
   "devDependencies": {
-    "browserify": "^9.0.8",
+    "@babel/preset-env": "^7.18.2",
+    "browserslist": "^4.20.3",
     "chai": "^3.5.0",
+    "esbuild": "^0.14.42",
+    "esbuild-plugin-babel": "^0.2.3",
     "mocha": "^2.5.3",
-    "uglify-js": "^2.8.29",
+    "rimraf": "^3.0.2",
     "watchify": "^3.2.1"
   }
 }
