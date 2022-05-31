@@ -5,24 +5,24 @@
 Get access to the dokku repo, if you're new:
 
 ```bash
-root@dokku$ cat > newperson_rsa.pub
-root@dokku$ dokku ssh-keys:add newperson /root/newperson_rsa.pub
+dokku@dokku1$ cat > newperson_rsa.pub
+dokku@dokku1$ dokku ssh-keys:add newperson /root/newperson_rsa.pub
 ```
 
 ### Create application
 
 ```bash
-root@dokku$ dokku apps:create trialstracker
+dokku@dokku1$ dokku apps:create trials-tracker
 local$ git clone git@github.com:ebmdatalab/trialstracker.git
 local$ cd trialstracker
-local$ git remote add dokku dokku@DOKU_HOSTNAME:trialstracker
+local$ git remote add dokku dokku@dokku1.ebmdatalab.net:trials-tracker
 local$ git push dokku master
 ```
 
 ### Ports & domains
 
 ```bash
-$ dokku domains:add trialstracker trialstracker-dokku.ebmdatalab.net 
+dokku@dokku1$ dokku domains:add trials-tracker trialstracker.ebmdatalab.net
 ```
 
 ### add datafile
@@ -30,8 +30,8 @@ $ dokku domains:add trialstracker trialstracker-dokku.ebmdatalab.net
 Generate your data file (outside the scope of this document), and then move it into place:
 
 ```bash
-root@dokku$ mkdir -p /var/lib/dokku/data/storage/trialstracker/data/
-root@dokku$ chown -R www-data:dokku /var/lib/dokku/data/storage/trialstracker
-root@dokku$ dokku storage:mount thedatalab /var/lib/dokku/data/storage/trialstracker/data/:/usr/share/nginx/html/data/
-root@dokku$ cp completed.csv /var/lib/dokku/data/storage/trialstracker/data/
+dokku@dokku1$ mkdir -p /var/lib/dokku/data/storage/trials-tracker/data/
+dokku@dokku1$ chown -R www-data:dokku /var/lib/dokku/data/storage/trials-tracker
+dokku@dokku1$ dokku storage:mount trials-tracker /var/lib/dokku/data/storage/trials-tracker/data/:/usr/share/nginx/html/data/
+dokku@dokku1$ cp completed.csv /var/lib/dokku/data/storage/trials-tracker/data/
 ```
