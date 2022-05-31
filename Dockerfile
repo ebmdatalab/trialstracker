@@ -1,10 +1,10 @@
 # Use a nice old version of nodejs because we have nice old code
-FROM node:10.22 as build
+FROM node:16 as build
 
 WORKDIR /app
 
 COPY ./app/js /app/
-RUN npm install
+RUN npm ci
 # build main.js
 RUN npm run build
 
