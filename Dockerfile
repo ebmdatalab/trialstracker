@@ -4,9 +4,9 @@ FROM node:16 as build
 WORKDIR /app
 
 COPY ./app/js /app/
-RUN npm ci
+RUN --mount=type=cache,target=/cache npm set cache /cache && npm ci
 # build main.js
-RUN npm run build
+RUN --mount=type=cache,target=/cache npm set cache /cache && npm run build
 
 FROM nginx
 COPY app/ /usr/share/nginx/html
