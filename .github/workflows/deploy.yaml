@@ -29,8 +29,8 @@ jobs:
       - name: Build docker image
         run: make test
 
-      - name: Build docker image
-        run: make build
+      - name: Run tests
+        run: make test
 
       - name: Deploy to dokku
         if: github.ref == 'refs/heads/main'
