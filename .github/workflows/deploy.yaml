@@ -27,7 +27,7 @@ jobs:
             fetch-depth: 0
 
       - name: Build docker image
-        run: make test
+        run: make build
 
       - name: Run tests
         run: make test
