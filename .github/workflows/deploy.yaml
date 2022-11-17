@@ -9,17 +9,18 @@ env:
 
 on:
   pull_request:
+  workflow_dispatch:
   push:
       branches: [main]
-  workflow_dispatch:
+
+permissions:
+  contents: read
+  packages: write
+
 
 jobs:
   ci:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      packages: write
-
     steps:
       - uses: actions/checkout@v3
         with:
@@ -28,13 +29,13 @@ jobs:
       - name: Build docker image
         run: make test
 
-      - name: Build docker image
-        run: make build
+      - name: Run tests
+        run: make test
 
       - name: Deploy to dokku
         if: github.ref == 'refs/heads/main'
         run: |
-            docker login $REGISTRY -u ${{ github.actor }} --password ${{ secrets.GITHUB_TOKEN }}
+            echo "${{ secrets.GITHUB_TOKEN }}" | docker login $REGISTRY -u ${{ github.actor }} --password-stdin
             docker tag $IMAGE_NAME $PUBLIC_IMAGE_NAME:latest
             docker push $PUBLIC_IMAGE_NAME:latest
             ssh-agent -a $SSH_AUTH_SOCK > /dev/null
