@@ -1,5 +1,4 @@
-# Use a nice old version of nodejs because we have nice old code
-FROM node:16 as build
+FROM node:20 as build
 
 WORKDIR /app
 
