@@ -27,7 +27,7 @@
     "chai": "^3.5.0",
     "esbuild": "^0.14.42",
     "esbuild-plugin-babel": "^0.2.3",
-    "mocha": "^2.5.3",
-    "watchify": "^3.2.1"
+    "mocha": "^10.2.0",
+    "watchify": "^3.11.1"
   }
 }
